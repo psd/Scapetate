@@ -1,0 +1,33 @@
+body {
+	#Hmm .. white is the new black
+	#color: #fff;
+	#background-color: #000;
+
+	font-family: 'Georgia';
+	font-style: italic;
+}
+
+#poster {
+	width: 30em;
+	padding: 1em 1em 1em 1em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2em;
+}
+
+h1 {
+	text-align: center;
+	font-size: 4em;
+	line-height: 2em;
+}
+
+#footer {
+	padding-left: 3em;
+	text-align: left;
+}
+
+dd {
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
