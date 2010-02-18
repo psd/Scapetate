@@ -1,0 +1,14 @@
+<html>
+<head>
+<body>
+<div id="storeArea">
+<div title="[% map.name %]" modifier="[% user %]" tags="scape" image="[% img.src %]">
+<pre>[% title %]</pre>
+</div>
+[% FOREACH area IN map.area -%]
+<div title="[% area.title %]" modifier="[% user %]" tags="tate" shape="[% area.shape %]" coords="[% area.coords %]" href="[% area.href %]">
+<pre>[% text %]</pre>
+</div>
+[% END %]</div>
+</body>
+</html>
