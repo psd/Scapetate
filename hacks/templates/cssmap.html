@@ -1,0 +1,68 @@
+<html>
+<head>
+<style type="text/css">
+#map {
+    margin: 0;
+    padding: 0;
+    background: transparent url([% img.src %]) top left no-repeat;
+    height: [% img.height %]px;
+    width: [% img.width %]px;
+    position: relative;
+}
+
+#map img { 
+    display: none; 
+}
+
+#map ul {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    list-style-type: none;
+}
+
+#map li {
+    list-style-type: none;
+}
+
+#map li a span { 
+    display: none;
+}
+
+#map li a {
+    display: block;
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black; 
+    text-decoration: none; 
+    opacity: 0.1;
+}
+
+#map li a:hover {
+    border: 1px solid #BCBCBC;
+    background-color: #F4F4F4;
+    opacity: 0.9;
+}
+
+[% FOREACH area IN map.area -%]
+li#[% area.id %] a {
+    top: [% area.top %]px;
+    left: [% area.left %]px;
+    width: [% area.width %]px;
+    height: [% area.height %]px;
+}
+[% END %]
+</style>
+</head>
+<body>
+<div id="map">
+    <img src="[% img.src %]" border="0">
+    <ul>
+[% FOREACH area IN map.area -%]
+        <li id="[% area.id %]"><a href="[% area.href %]" title="[% area.title %]" alt="[% area.title %]">[% area.title %]</a></li>
+[% END %]
+    </ul>
+</div>
+</body>
+</html>
