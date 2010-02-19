@@ -16,9 +16,13 @@ RM=rm -f
 TARGETS=\
 	$(OUTDIR)/image.png\
 	$(OUTDIR)/imagemap.html\
+	$(OUTDIR)/cssmap.html\
 	$(OUTDIR)/tiddlywiki.html
 
 all:	$(TARGETS)
+
+$(OUTDIR)/cssmap.html:	$(TEMPLATESDIR)/cssmap.html $(IN)
+	$(TT) "$(IN)" "$(TEMPLATESDIR)/cssmap.html" "$@"
 
 $(OUTDIR)/imagemap.html:	$(TEMPLATESDIR)/imagemap.html $(IN)
 	$(TT) "$(IN)" "$(TEMPLATESDIR)/imagemap.html" "$@"

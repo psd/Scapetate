@@ -323,11 +323,10 @@ map:
       href: http://blog.whatfettle.com/2009/07/08/gitscob/
       shape: rect
       title: On the occasion of the Traveling Geeks Tarry at the B.T. Tower July XXIX
-    - coords: '681,2183,2887,2743'
-      href: <area shape=
-      rect": rect"
+    - coords: '681,2183,2887,2743' 
+      href: http://gitscob.whatfettle.com
+      title: Geekery is The Social Capital of Britain
       shape: rect
-      title: On the occasion of the Traveling Geeks Tarry at the B.T. Tower July XXIX
     - coords: '1989,1937,2118,2116'
       href: http://en.wikipedia.org/wiki/Golden_Hind
       shape: rect
