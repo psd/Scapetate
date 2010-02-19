@@ -1,5 +1,5 @@
 ---
-title: 'Geekery is the Social Capital of Britain'
+title: Geekery is the Social Capital of Britain
 user: psd
 img:
   map: GITSCOB
@@ -8,1066 +8,2396 @@ map:
   name: GITSCOB
   area:
     - coords: '2946,1294,3026,1337'
+      height: 43
       href: http://moo.com
+      id: moo
+      left: 2946
       shape: rect
       title: '@moo'
+      top: 1294
+      width: 80
     - coords: '2955,1371,3058,1417'
+      height: 46
       href: http://www.last.fm/
+      id: lastfm
+      left: 2955
       shape: rect
       title: '@lastfm'
+      top: 1371
+      width: 103
     - coords: '3054,1367,3157,1421'
+      height: 54
       href: http://redmonk.com/
+      id: redmonk
+      left: 3054
       shape: rect
       title: '@redmonk'
+      top: 1367
+      width: 103
     - coords: '1429,1282,1519,1368'
+      height: 86
       href: 'http://en.wikipedia.org/wiki/Royal_Society_for_the_encouragement_of_Arts,_Manufactures_%26_Commerce'
+      id: RSA
+      left: 1429
       shape: rect
       title: RSA
+      top: 1282
+      width: 90
     - coords: '28,611,135,811'
+      height: 200
       href: http://en.wikipedia.org/wiki/Giant%27s_Causeway
+      id: GiantsCauseway
+      left: 28
       shape: rect
       title: Giant's Causeway
+      top: 611
+      width: 107
     - coords: '31,2432,3643,2687'
+      height: 255
       href: http://en.wikipedia.org/wiki/English_channel
+      id: EnglishChannel
+      left: 31
       shape: rect
       title: English Channel
+      top: 2432
+      width: 3612
     - coords: '1120,1629,1286,1767'
+      height: 138
       href: http://en.wikipedia.org/wiki/Waterloo_Millennium_Pier
+      id: RiverCruises
+      left: 1120
       shape: rect
       title: River Cruises
+      top: 1629
+      width: 166
     - coords: '1870,1385,1993,1483'
+      height: 98
       href: 'http://maps.google.co.uk/maps/place?cid=1167314269160551210&q=tea,%2Bst%2Bpaul%27s,%2Blondon'
+      id: Tea
+      left: 1870
       shape: rect
       title: Tea
+      top: 1385
+      width: 123
     - coords: '1850,1315,1968,1414'
+      height: 99
       href: http://en.wikipedia.org/wiki/BT_Centre
+      id: BTCentre
+      left: 1850
       shape: rect
       title: BT Centre
+      top: 1315
+      width: 118
     - coords: '1935,1121,2014,1196'
+      height: 75
       href: http://en.wikipedia.org/wiki/Private_Eye
+      id: PrivateEye
+      left: 1935
       shape: rect
       title: Private Eye
+      top: 1121
+      width: 79
     - coords: '1825,1128,2001,1325'
+      height: 197
       href: http://en.wikipedia.org/wiki/Centre_Point
+      id: CentrePointTower
+      left: 1825
       shape: rect
       title: Centre Point Tower
+      top: 1128
+      width: 176
     - coords: '1755,1949,1811,2049'
+      height: 100
       href: http://en.wikipedia.org/wiki/Ofcom
+      id: Ofcom
+      left: 1755
       shape: rect
       title: Ofcom
+      top: 1949
+      width: 56
     - coords: '2961,1060,3160,1192'
+      height: 132
       href: http://en.wikipedia.org/wiki/Imperial_War_Museum_Duxford
+      id: Duxford
+      left: 2961
       shape: rect
       title: Duxford
+      top: 1060
+      width: 199
     - coords: '2865,953,3100,1093'
+      height: 140
       href: http://en.wikipedia.org/wiki/Sinclair_Research
+      id: SinclairResearch
+      left: 2865
       shape: rect
       title: Sinclair Research
+      top: 953
+      width: 235
     - coords: '3066,963,3190,1092'
+      height: 129
       href: http://en.wikipedia.org/wiki/BBC_Micro
+      id: BBCMicro
+      left: 3066
       shape: rect
       title: BBC Micro
+      top: 963
+      width: 124
     - coords: '3151,1297,3282,1431'
+      height: 134
       href: http://en.wikipedia.org/wiki/Invader_(artist)
+      id: Invader
+      left: 3151
       shape: rect
       title: Invader
+      top: 1297
+      width: 131
     - coords: '3165,1256,3267,1300'
+      height: 44
       href: http://dopplr.com
+      id: dopplr
+      left: 3165
       shape: rect
       title: '@dopplr'
+      top: 1256
+      width: 102
     - coords: '3236,1429,3432,1487'
+      height: 58
       href: http://schoolofeverything.com/
+      id: schoolofeverything
+      left: 3236
       shape: rect
       title: '@schoolofeverything'
+      top: 1429
+      width: 196
     - coords: '2115,1093,2274,1137'
+      height: 44
       href: http://www.thoughtworks.com/
+      id: thoughtworks
+      left: 2115
       shape: rect
       title: '@thoughtworks'
+      top: 1093
+      width: 159
     - coords: '3234,1481,3416,1675'
+      height: 194
       href: http://en.wikipedia.org/wiki/Greyworld#The_Source_.282004.29
+      id: TheSource
+      left: 3234
       shape: rect
       title: The Source
+      top: 1481
+      width: 182
     - coords: '2996,1419,3156,1517'
+      height: 98
       href: http://en.wikipedia.org/wiki/London_Stock_Exchange
+      id: StockExchange
+      left: 2996
       shape: rect
       title: Stock Exchange
+      top: 1419
+      width: 160
     - coords: '2538,1520,2773,1598'
+      height: 78
       href: http://en.wikipedia.org/wiki/Barbican_Estate
+      id: TheBarbican
+      left: 2538
       shape: rect
       title: The Barbican
+      top: 1520
+      width: 235
     - coords: '2598,1339,2728,1529'
+      height: 190
       href: http://en.wikipedia.org/wiki/Griffin
+      id: Griffins
+      left: 2598
       shape: rect
       title: Griffins
+      top: 1339
+      width: 130
     - coords: '2442,1391,2616,1610'
+      height: 219
       href: http://en.wikipedia.org/wiki/30_St_Mary_Axe
+      id: TheGherkin
+      left: 2442
       shape: rect
       title: The Gherkin
+      top: 1391
+      width: 174
     - coords: '2144,1489,2297,1600'
+      height: 111
       href: http://en.wikipedia.org/wiki/Rosetta_Stone
+      id: RosettaStone
+      left: 2144
       shape: rect
       title: Rosetta Stone
+      top: 1489
+      width: 153
     - coords: '2105,1266,2318,1584'
+      height: 318
       href: http://en.wikipedia.org/wiki/British_Museum
+      id: BritishMuseum
+      left: 2105
       shape: rect
       title: British Museum
+      top: 1266
+      width: 213
     - coords: '1809,1342,1944,1508'
+      height: 166
       href: http://en.wikipedia.org/wiki/St_Paul%27s_Cathedral
+      id: StPaulsCathedral
+      left: 1809
       shape: rect
       title: St Paul's Cathedral
+      top: 1342
+      width: 135
     - coords: '1740,1424,1853,1556'
+      height: 132
       href: http://en.wikipedia.org/wiki/Baynard%27s_Castle
+      id: BaynardsCastle
+      left: 1740
       shape: rect
       title: Baynard's Castle
+      top: 1424
+      width: 113
     - coords: '1743,1292,1827,1430'
+      height: 138
       href: http://en.wikipedia.org/wiki/Fleet_Street
+      id: FleetStreet
+      left: 1743
       shape: rect
       title: Fleet Street
+      top: 1292
+      width: 84
     - coords: '1665,1338,1769,1465'
+      height: 127
       href: http://en.wikipedia.org/wiki/St_Bride%27s_Church
+      id: StBrides
+      left: 1665
       shape: rect
       title: St Bride's
+      top: 1338
+      width: 104
     - coords: '1691,1293,1779,1362'
+      height: 69
       href: http://en.wikipedia.org/wiki/National_Endowment_for_Science_Technology_and_the_Arts
+      id: NESTA
+      left: 1691
       shape: rect
       title: NESTA
+      top: 1293
+      width: 88
     - coords: '1565,1227,1714,1285'
+      height: 58
       href: http://en.wikipedia.org/wiki/John_Snow_(physician)
+      id: JohnSnow
+      left: 1565
       shape: rect
       title: John Snow
+      top: 1227
+      width: 149
     - coords: '1564,1154,1713,1282'
+      height: 128
       href: http://en.wikipedia.org/wiki/Soho
+      id: Soho
+      left: 1564
       shape: rect
       title: Soho
+      top: 1154
+      width: 149
     - coords: '1688,1118,1839,1228'
+      height: 110
       href: http://en.wikipedia.org/wiki/Foyles
+      id: Foyles
+      left: 1688
       shape: rect
       title: Foyles
+      top: 1118
+      width: 151
     - coords: '1727,2115,1846,2173'
+      height: 58
       href: http://theteam.co.uk
+      id: theteam
+      left: 1727
       shape: rect
       title: '@theteam'
+      top: 2115
+      width: 119
     - coords: '1632,1917,1752,2078'
+      height: 161
       href: http://en.wikipedia.org/wiki/Shakespeare%27s_Globe
+      id: Globe
+      left: 1632
       shape: rect
       title: Globe
+      top: 1917
+      width: 120
     - coords: '1516,1852,1652,2092'
+      height: 240
       href: http://en.wikipedia.org/wiki/Tate_Modern
+      id: TateModern
+      left: 1516
       shape: rect
       title: Tate Modern
+      top: 1852
+      width: 136
     - coords: '913,1852,1123,2012'
+      height: 160
       href: http://en.wikipedia.org/wiki/London_Aquarium
+      id: LondonAquarium
+      left: 913
       shape: rect
       title: London Aquarium
+      top: 1852
+      width: 210
     - coords: '779,1757,885,1831'
+      height: 74
       href: http://en.wikipedia.org/wiki/Duck_tour
+      id: DuckTours
+      left: 779
       shape: rect
       title: Duck Tours
+      top: 1757
+      width: 106
     - coords: '680,1571,803,1902'
+      height: 331
       href: http://en.wikipedia.org/wiki/Vauxhall_Bridge
+      id: VauxhallBridge
+      left: 680
       shape: rect
       title: Vauxhall Bridge
+      top: 1571
+      width: 123
     - coords: '918,1130,1053,1228'
+      height: 98
       href: http://maps.google.co.uk/maps/place?cid=15271878968401036436&q=spymaster&hl=en&cd=1&cad=src:pplink&ei=QRsDS46wM-PMjAfM4rDiCw
+      id: Spymaster
+      left: 918
       shape: rect
       title: Spymaster
+      top: 1130
+      width: 135
     - coords: '1088,1180,1223,1257'
+      height: 77
       href: http://maps.google.co.uk/maps/place?cid=14005593306208026578&q=fuzzy%27s+grub&hl=en&cd=3&cad=src:pplink&ei=jBcDS-OFEsa8jAf0pPzXCw
+      id: FuzzysGrub
+      left: 1088
       shape: rect
       title: Fuzzy's Grub
+      top: 1180
+      width: 135
     - coords: '1194,1414,1316,1443'
+      height: 29
       href: http://rewiredstate.org/
+      id: rewiredstate
+      left: 1194
       shape: rect
       title: '@rewiredstate'
+      top: 1414
+      width: 122
     - coords: '1382,1833,1422,1994'
+      height: 161
       href: http://en.wikipedia.org/wiki/BFI_Southbank
+      id: BFI
+      left: 1382
       shape: rect
       title: BFI
+      top: 1833
+      width: 40
     - coords: '1358,1785,1447,1987'
+      height: 202
       href: http://en.wikipedia.org/wiki/Royal_Festival_Hall
+      id: RoyalFestivalHall
+      left: 1358
       shape: rect
       title: Royal Festival Hall
+      top: 1785
+      width: 89
     - coords: '1416,1855,1516,2027'
+      height: 172
       href: http://en.wikipedia.org/wiki/Royal_National_Theatre
+      id: NationalTheatre
+      left: 1416
       shape: rect
       title: National Theatre
+      top: 1855
+      width: 100
     - coords: '863,1368,960,1447'
+      height: 79
       href: http://maps.google.co.uk/maps/place?cid=8730490599266458823&q=national+map+centre+london&hl=en&cd=1&cad=src:pplink&ei=3BEDS5aRHZC7jAfky8iBDA
+      id: NationalMapCentre
+      left: 863
       shape: rect
       title: National Map Centre
+      top: 1368
+      width: 97
     - coords: '1180,1353,1296,1420'
+      height: 67
       href: http://en.wikipedia.org/wiki/Horseguards_Parade
+      id: HorseguardsParade
+      left: 1180
       shape: rect
       title: Horseguards Parade
+      top: 1353
+      width: 116
     - coords: '1108,1407,1199,1470'
+      height: 63
       href: http://en.wikipedia.org/wiki/Churchill_Museum_and_Cabinet_War_Rooms
+      id: ChurchillMuseum
+      left: 1108
       shape: rect
       title: Churchill Museum
+      top: 1407
+      width: 91
     - coords: '1075,1390,1167,1425'
+      height: 35
       href: http://twitter.com/bongbot
+      id: bongbot
+      left: 1075
       shape: rect
       title: '@bongbot'
+      top: 1390
+      width: 92
     - coords: '980,1375,1090,1553'
+      height: 178
       href: http://en.wikipedia.org/wiki/Westminster_Abbey
+      id: WestminsterAbbey
+      left: 980
       shape: rect
       title: Westminster Abbey
+      top: 1375
+      width: 110
     - coords: '943,1299,1083,1408'
+      height: 109
       href: http://www.osmosoft.com/
+      id: Osmosoft
+      left: 943
       shape: rect
       title: '@Osmosoft'
+      top: 1299
+      width: 140
     - coords: '854,1230,1001,1325'
+      height: 95
       href: http://en.wikipedia.org/wiki/Royal_Academy
+      id: RoyalAcademy
+      left: 854
       shape: rect
       title: Royal Academy
+      top: 1230
+      width: 147
     - coords: '758,1210,852,1289'
+      height: 79
       href: http://en.wikipedia.org/wiki/Marble_arch
+      id: MarbleArch
+      left: 758
       shape: rect
       title: Marble Arch
+      top: 1210
+      width: 94
     - coords: '702,1268,862,1393'
+      height: 125
       href: http://en.wikipedia.org/wiki/Buckingham_palace
+      id: BuckinghamPalace
+      left: 702
       shape: rect
       title: Buckingham Palace
+      top: 1268
+      width: 160
     - coords: '680,1386,808,1447'
+      height: 61
       href: http://en.wikipedia.org/wiki/Harrods
+      id: Harrods
+      left: 680
       shape: rect
       title: Harrods
+      top: 1386
+      width: 128
     - coords: '791,1431,899,1534'
+      height: 103
       href: http://en.wikipedia.org/wiki/Strutton_Ground_Market
+      id: FlatCapCoffeeCo
+      left: 791
       shape: rect
       title: Flat Cap Coffee Co
+      top: 1431
+      width: 108
     - coords: '724,1477,875,1633'
+      height: 156
       href: http://en.wikipedia.org/wiki/Tate_Britain
+      id: TateBritain
+      left: 724
       shape: rect
       title: Tate Britain
+      top: 1477
+      width: 151
     - coords: '633,1433,802,1502'
+      height: 69
       href: http://en.wikipedia.org/wiki/Ranelagh_Gardens
+      id: RanelaghGardens
+      left: 633
       shape: rect
       title: Ranelagh Gardens
+      top: 1433
+      width: 169
     - coords: '452,1404,657,1554'
+      height: 150
       href: http://en.wikipedia.org/wiki/London_Natural_History_Museum
+      id: NaturalHistoryMuseum
+      left: 452
       shape: rect
       title: Natural History Museum
+      top: 1404
+      width: 205
     - coords: '476,1296,581,1416'
+      height: 120
       href: http://en.wikipedia.org/wiki/Charles_Babbage
+      id: CharlesBabbage
+      left: 476
       shape: rect
       title: Charles Babbage
+      top: 1296
+      width: 105
     - coords: '474,1285,638,1426'
+      height: 141
       href: http://en.wikipedia.org/wiki/London_Science_Museum
+      id: LondonScienceMuseum
+      left: 474
       shape: rect
       title: London Science Museum
+      top: 1285
+      width: 164
     - coords: '633,1251,723,1382'
+      height: 131
       href: http://en.wikipedia.org/wiki/Hyde_Park_Corner
+      id: HydeParkCorner
+      left: 633
       shape: rect
       title: Hyde Park Corner
+      top: 1251
+      width: 90
     - coords: '755,1090,810,1160'
+      height: 70
       href: http://en.wikipedia.org/wiki/Baker_Street
+      id: BakerStreet
+      left: 755
       shape: rect
       title: Baker Street
+      top: 1090
+      width: 55
     - coords: '651,1113,760,1274'
+      height: 161
       href: http://en.wikipedia.org/wiki/Albert_Memorial
+      id: AlbertMemorial
+      left: 651
       shape: rect
       title: Albert Memorial
+      top: 1113
+      width: 109
     - coords: '25,1517,215,1751'
+      height: 234
       href: http://en.wikipedia.org/wiki/Battersea_Power_Station
+      id: BatterseaPowerStation
+      left: 25
       shape: rect
       title: Battersea Power Station
+      top: 1517
+      width: 190
     - coords: '185,1601,434,1753'
+      height: 152
       href: http://en.wikipedia.org/wiki/Kingston_upon_Thames
+      id: OutofOrder
+      left: 185
       shape: rect
       title: Out of Order
+      top: 1601
+      width: 249
     - coords: '275,1682,430,1839'
+      height: 157
       href: http://en.wikipedia.org/wiki/Hay_on_wye
+      id: HayonWye
+      left: 275
       shape: rect
       title: Hay on Wye
+      top: 1682
+      width: 155
     - coords: '191,1674,310,1844'
+      height: 170
       href: http://en.wikipedia.org/wiki/Hereford_Mappa_Mundi
+      id: MappaMundi
+      left: 191
       shape: rect
       title: Mappa Mundi
+      top: 1674
+      width: 119
     - coords: '31,1885,319,2111'
+      height: 226
       href: http://en.wikipedia.org/wiki/Cardiff
+      id: Torchwood
+      left: 31
       shape: rect
       title: Torchwood
+      top: 1885
+      width: 288
     - coords: '242,1841,497,2029'
+      height: 188
       href: http://en.wikipedia.org/wiki/Minsterworth
+      id: SevernBore
+      left: 242
       shape: rect
       title: Severn Bore
+      top: 1841
+      width: 255
     - coords: '528,1974,687,2047'
+      height: 73
       href: http://en.wikipedia.org/wiki/Edward_Jenner
+      id: EdwardJenner
+      left: 528
       shape: rect
       title: Edward Jenner
+      top: 1974
+      width: 159
     - coords: '499,1834,691,2047'
+      height: 213
       href: 'http://maps.google.co.uk/maps?lyr=m&iwp=maps_app&view=smartmaps&q=Edward+Jenner+Museum&sll=51.69021,-2.457976&hl=en&ei=38MCS__7McTIOIDu5cwK&ie=UTF8&latlng=11813836959315031131&cd=1'
+      id: EdwardJennerMuseum
+      left: 499
       shape: rect
       title: Edward Jenner Museum
+      top: 1834
+      width: 192
     - coords: '633,2260,744,2377'
+      height: 117
       href: http://en.wikipedia.org/wiki/Caen_Hill_Locks
+      id: LocksDevizes
+      left: 633
       shape: rect
       title: Locks (Devizes)
+      top: 2260
+      width: 111
     - coords: '520,2483,687,2622'
+      height: 139
       href: http://maps.google.com/maps/place?client=safari&rls=en&oe=UTF-8&um=1&ie=UTF-8&q=wireless+%22isle+of+wight%22&fb=1&hq=wireless+&hnear=isle+of+wight&cid=16674598725356977131
+      id: NationalWirelessMuseum
+      left: 520
       shape: rect
       title: National Wireless Museum
+      top: 2483
+      width: 167
     - coords: '486,2392,601,2543'
+      height: 151
       href: http://en.wikipedia.org/wiki/HMS_Victory
+      id: HMSVictory
+      left: 486
       shape: rect
       title: H.M.S. Victory
+      top: 2392
+      width: 115
     - coords: '302,2398,509,2543'
+      height: 145
       href: 'http://en.wikipedia.org/wiki/Westbourne,_Dorset'
+      id: DrJekyllandMrHyde
+      left: 302
       shape: rect
       title: Dr Jekyll and Mr Hyde
+      top: 2398
+      width: 207
     - coords: '228,2111,406,2271'
+      height: 160
       href: http://en.wikipedia.org/wiki/Eden_Project
+      id: EdenProject
+      left: 228
       shape: rect
       title: Eden Project
+      top: 2111
+      width: 178
     - coords: '755,2672,2783,2788'
+      height: 116
       href: http://blog.whatfettle.com/2009/07/08/gitscob/
+      id: OntheoccasionoftheTravelingGeeksTarryattheBTTowerJulyXXIX
+      left: 755
       shape: rect
       title: On the occasion of the Traveling Geeks Tarry at the B.T. Tower July XXIX
-    - coords: '681,2183,2887,2743' 
+      top: 2672
+      width: 2028
+    - coords: '681,2183,2887,2743'
+      height: 560
       href: http://gitscob.whatfettle.com
-      title: Geekery is The Social Capital of Britain
+      id: GeekeryisTheSocialCapitalofBritain
+      left: 681
       shape: rect
+      title: Geekery is The Social Capital of Britain
+      top: 2183
+      width: 2206
     - coords: '1989,1937,2118,2116'
+      height: 179
       href: http://en.wikipedia.org/wiki/Golden_Hind
+      id: GoldenHind
+      left: 1989
       shape: rect
       title: Golden Hind
+      top: 1937
+      width: 129
     - coords: '2041,1850,2311,2118'
+      height: 268
       href: http://en.wikipedia.org/wiki/Southwark_Cathedral
+      id: Soutwarke
+      left: 2041
       shape: rect
       title: Soutwarke
+      top: 1850
+      width: 270
     - coords: '2152,1759,2258,1857'
+      height: 98
       href: http://en.wikipedia.org/wiki/Nonsuch_House
+      id: NonSuch
+      left: 2152
       shape: rect
       title: Non Such
+      top: 1759
+      width: 106
     - coords: '2227,1640,2483,2117'
+      height: 477
       href: http://en.wikipedia.org/wiki/London_Bridge
+      id: LondonBridge
+      left: 2227
       shape: rect
       title: London Bridge
+      top: 1640
+      width: 256
     - coords: '2608,1911,2805,2051'
+      height: 140
       href: http://en.wikipedia.org/wiki/HMS_Belfast_(C35)
+      id: HMSBelfast
+      left: 2608
       shape: rect
       title: H.M.S. Belfast
+      top: 1911
+      width: 197
     - coords: '2947,1878,3096,2024'
+      height: 146
       href: http://en.wikipedia.org/wiki/Design_Museum
+      id: DesignMuseum
+      left: 2947
       shape: rect
       title: Design Museum
+      top: 1878
+      width: 149
     - coords: '3057,1830,3220,2011'
+      height: 181
       href: http://en.wikipedia.org/wiki/Lemuel_Gulliver
+      id: LemuelGulliver
+      left: 3057
       shape: rect
       title: Lemuel Gulliver
+      top: 1830
+      width: 163
     - coords: '3092,1695,3326,1790'
+      height: 95
       href: http://en.wikipedia.org/wiki/SS_Great_Eastern
+      id: SSGreatEastern
+      left: 3092
       shape: rect
       title: SS Great Eastern
+      top: 1695
+      width: 234
     - coords: '3175,1767,3341,1981'
+      height: 214
       href: http://en.wikipedia.org/wiki/Brunel_Museum
+      id: BrunelMuseum
+      left: 3175
       shape: rect
       title: Brunel Museum
+      top: 1767
+      width: 166
     - coords: '3360,1745,3472,1908'
+      height: 163
       href: http://en.wikipedia.org/wiki/Greenwich_foot_tunnel
+      id: Greenwichfoottunnel
+      left: 3360
       shape: rect
       title: Greenwich foot tunnel
+      top: 1745
+      width: 112
     - coords: '3427,1423,3646,1595'
+      height: 172
       href: http://en.wikipedia.org/wiki/Thames_Barrier
+      id: ThamesBarrier
+      left: 3427
       shape: rect
       title: Thames Barrier
+      top: 1423
+      width: 219
     - coords: '3437,1338,3646,1450'
+      height: 112
       href: http://en.wikipedia.org/wiki/Crossness_Pumping_Station
+      id: CrossnessPumpingStation
+      left: 3437
       shape: rect
       title: Crossness Pumping Station
+      top: 1338
+      width: 209
     - coords: '3436,1595,3594,1718'
+      height: 123
       href: http://en.wikipedia.org/wiki/Millennium_Dome
+      id: MillenniumDome
+      left: 3436
       shape: rect
       title: Millennium Dome
+      top: 1595
+      width: 158
     - coords: '3449,1711,3645,1868'
+      height: 157
       href: http://en.wikipedia.org/wiki/National_Maritime_Museum
+      id: NationalMaritimeMuseum
+      left: 3449
       shape: rect
       title: National Maritime Museum
+      top: 1711
+      width: 196
     - coords: '3424,1759,3647,1989'
+      height: 230
       href: http://en.wikipedia.org/wiki/Greenwich_Observatory
+      id: GreenwichObservatory
+      left: 3424
       shape: rect
       title: Greenwich Observatory
+      top: 1759
+      width: 223
     - coords: '2770,1217,2954,1423'
+      height: 206
       href: http://en.wikipedia.org/wiki/Bunhill_Fields
+      id: BunhillFields
+      left: 2770
       shape: rect
       title: Bunhill Fields
+      top: 1217
+      width: 184
     - coords: '2670,1056,2859,1213'
+      height: 157
       href: http://en.wikipedia.org/wiki/Kings_Place
+      id: TheGuardian
+      left: 2670
       shape: rect
       title: The Guardian
+      top: 1056
+      width: 189
     - coords: '2486,1033,2673,1219'
+      height: 186
       href: http://en.wikipedia.org/wiki/London_King%27s_Cross_railway_station#Relationship_with_Harry_Potter
+      id: KingsCross
+      left: 2486
       shape: rect
       title: King's Cross
+      top: 1033
+      width: 187
     - coords: '2732,1997,2890,2162'
+      height: 165
       href: http://en.wikipedia.org/wiki/City_Hall_(London)
+      id: DarthVadersHelmet
+      left: 2732
       shape: rect
       title: Darth Vader's Helmet
+      top: 1997
+      width: 158
     - coords: '2656,2096,2812,2223'
+      height: 127
       href: http://en.wikipedia.org/wiki/Clayton_Tunnel
+      id: ClaytonTunnel
+      left: 2656
       shape: rect
       title: Clayton Tunnel
+      top: 2096
+      width: 156
     - coords: '3415,2545,3648,2691'
+      height: 146
       href: http://en.wikipedia.org/wiki/Hovercraft
+      id: Hovercraft
+      left: 3415
       shape: rect
       title: Hovercraft
+      top: 2545
+      width: 233
     - coords: '3419,2431,3653,2574'
+      height: 143
       href: http://en.wikipedia.org/wiki/Radar
+      id: Radar
+      left: 3419
       shape: rect
       title: Radar
+      top: 2431
+      width: 234
     - coords: '3453,1060,3650,1265'
+      height: 205
       href: http://en.wikipedia.org/wiki/Southwold_Pier
+      id: SouthwoldPier
+      left: 3453
       shape: rect
       title: Southwold Pier
+      top: 1060
+      width: 197
     - coords: '3228,875,3516,1018'
+      height: 143
       href: http://en.wikipedia.org/wiki/National_Railway_Museum
+      id: NationalRailwayMuseumYork
+      left: 3228
       shape: rect
       title: National Railway Museum (York)
+      top: 875
+      width: 288
     - coords: '3423,803,3633,926'
+      height: 123
       href: http://en.wikipedia.org/wiki/RAF_Fylingdales
+      id: Fylingdales
+      left: 3423
       shape: rect
       title: Fylingdales
+      top: 803
+      width: 210
     - coords: '3378,721,3599,817'
+      height: 96
       href: http://en.wikipedia.org/wiki/Whitby
+      id: WhitbyDracula
+      left: 3378
       shape: rect
       title: Whitby (Dracula)
+      top: 721
+      width: 221
     - coords: '3208,666,3468,883'
+      height: 217
       href: http://en.wikipedia.org/wiki/Angel_of_the_North
+      id: AngeloftheNorth
+      left: 3208
       shape: rect
       title: Angel of the North
+      top: 666
+      width: 260
     - coords: '1800,1562,1978,2006'
+      height: 444
       href: http://en.wikipedia.org/wiki/Southwark_Bridge
+      id: SouthwarkBridge
+      left: 1800
       shape: rect
       title: Southwark Bridge
+      top: 1562
+      width: 178
     - coords: '2162,1130,2287,1250'
+      height: 120
       href: http://en.wikipedia.org/wiki/Alexander_Flemming
+      id: AlexanderFlemming
+      left: 2162
       shape: rect
       title: Alexander Flemming
+      top: 1130
+      width: 125
     - coords: '759,1072,912,1158'
+      height: 86
       href: http://en.wikipedia.org/wiki/London_Planetarium
+      id: LondonPlanetarium
+      left: 759
       shape: rect
       title: London Planetarium
+      top: 1072
+      width: 153
     - coords: '3056,685,3207,845'
+      height: 160
       href: http://en.wikipedia.org/wiki/Beamish_Museum
+      id: BeamishMuseum
+      left: 3056
       shape: rect
       title: Beamish Museum
+      top: 685
+      width: 151
     - coords: '415,1532,465,1582'
+      height: 50
       href: http://en.wikipedia.org/wiki/Gerry_Anderson
+      id: GerryAnderson
+      left: 415
       shape: rect
       title: Gerry Anderson
+      top: 1532
+      width: 50
     - coords: '907,1969,1085,2058'
+      height: 89
       href: http://en.wikipedia.org/wiki/Lacock_Abbey
+      id: LacockAbbey
+      left: 907
       shape: rect
       title: Lacock Abbey
+      top: 1969
+      width: 178
     - coords: '2603,1201,2817,1343'
+      height: 142
       href: http://en.wikipedia.org/wiki/Alexandra_Palace
+      id: AlexandraPalace
+      left: 2603
       shape: rect
       title: Alexandra Palace
+      top: 1201
+      width: 214
     - coords: '1988,1401,2122,1536'
+      height: 135
       href: http://en.wikipedia.org/wiki/London_Stone
+      id: LondonStone
+      left: 1988
       shape: rect
       title: London Stone
+      top: 1401
+      width: 134
     - coords: '2135,1006,2286,1102'
+      height: 96
       href: http://en.wikipedia.org/wiki/Bloomsbury
+      id: Bloomsbury
+      left: 2135
       shape: rect
       title: Bloomsbury
+      top: 1006
+      width: 151
     - coords: '3442,2139,3650,2331'
+      height: 192
       href: http://en.wikipedia.org/wiki/Stuckism
+      id: Stuckism
+      left: 3442
       shape: rect
       title: Stuckism
+      top: 2139
+      width: 208
     - coords: '3068,2495,3192,2546'
+      height: 51
       href: http://clearleft.com/
+      id: clearleft
+      left: 3068
       shape: rect
       title: '@clearleft'
+      top: 2495
+      width: 124
     - coords: '28,933,288,1130'
+      height: 197
       href: http://en.wikipedia.org/wiki/Portmeirion
+      id: Portmeirion
+      left: 28
       shape: rect
       title: Portmeirion
+      top: 933
+      width: 260
     - coords: '537,657,690,792'
+      height: 135
       href: http://en.wikipedia.org/wiki/Manchester_Small-Scale_Experimental_Machine
+      id: Baby
+      left: 537
       shape: rect
       title: Baby
+      top: 657
+      width: 153
     - coords: '1178,798,1337,916'
+      height: 118
       href: http://en.wikipedia.org/wiki/Joint_European_Torus
+      id: JetLab
+      left: 1178
       shape: rect
       title: Jet Lab
+      top: 798
+      width: 159
     - coords: '1285,1028,1504,1190'
+      height: 162
       href: http://en.wikipedia.org/wiki/Delia_Derbyshire
+      id: DeliaDerbyshire
+      left: 1285
       shape: rect
       title: Delia Derbyshire
+      top: 1028
+      width: 219
     - coords: '1237,803,1578,1080'
+      height: 277
       href: http://en.wikipedia.org/wiki/Bletchley_Park
+      id: BletchleyPark
+      left: 1237
       shape: rect
       title: Bletchley Park
+      top: 803
+      width: 341
     - coords: '2887,376,3264,571'
+      height: 195
       href: http://en.wikipedia.org/wiki/Sarah_Lacy
+      id: SarahLacyTravellingGeek
+      left: 2887
       shape: rect
       title: Sarah Lacy (Travelling Geek)
+      top: 376
+      width: 377
     - coords: '258,1198,449,1334'
+      height: 136
       href: http://en.wikipedia.org/wiki/Tommy_Flowers
+      id: TommyFlowers
+      left: 258
       shape: rect
       title: Tommy Flowers
+      top: 1198
+      width: 191
     - coords: '799,1869,909,2035'
+      height: 166
       href: http://en.wikipedia.org/wiki/Mi6
+      id: MI6Shhh
+      left: 799
       shape: rect
       title: MI6 (Shhh!)
+      top: 1869
+      width: 110
     - coords: '1059,2080,1269,2212'
+      height: 132
       href: http://en.wikipedia.org/wiki/Tooting_Bec_Lido
+      id: Lido
+      left: 1059
       shape: rect
       title: Lido
+      top: 2080
+      width: 210
     - coords: '722,2028,904,2214'
+      height: 186
       href: http://en.wikipedia.org/wiki/Chatley_Heath
+      id: ChatleyHeath
+      left: 722
       shape: rect
       title: Chatley Heath
+      top: 2028
+      width: 182
     - coords: '548,2049,726,2287'
+      height: 238
       href: http://en.wikipedia.org/wiki/Avebury
+      id: Avebury
+      left: 548
       shape: rect
       title: Avebury
+      top: 2049
+      width: 178
     - coords: '423,2155,572,2290'
+      height: 135
       href: http://en.wikipedia.org/wiki/Glastonbury_Festival
+      id: Glasto
+      left: 423
       shape: rect
       title: Glasto
+      top: 2155
+      width: 149
     - coords: '388,1977,548,2171'
+      height: 194
       href: http://en.wikipedia.org/wiki/Banksy
+      id: Banksy
+      left: 388
       shape: rect
       title: Banksy
+      top: 1977
+      width: 160
     - coords: '174,2289,610,2345'
+      height: 56
       href: http://en.wikipedia.org/wiki/Scale_(map)
+      id: nonduccouilanx
+      left: 174
       shape: rect
       title: non ducco ui lanx
+      top: 2289
+      width: 436
     - coords: '27,2083,263,2340'
+      height: 257
       href: http://en.wikipedia.org/wiki/Goonhilly
+      id: Goonhilly
+      left: 27
       shape: rect
       title: Goonhilly
+      top: 2083
+      width: 236
     - coords: '27,2339,196,2467'
+      height: 128
       href: http://en.wikipedia.org/wiki/Porthcurno
+      id: Porthcurno
+      left: 27
       shape: rect
       title: Porthcurno
+      top: 2339
+      width: 169
     - coords: '25,2467,153,2608'
+      height: 141
       href: http://en.wikipedia.org/wiki/Poldhu
+      id: Poldhu
+      left: 25
       shape: rect
       title: Poldhu
+      top: 2467
+      width: 128
     - coords: '25,2684,646,2770'
+      height: 86
       href: http://tg.whatfettle.com
+      id: httptgwhatfettlecom
+      left: 25
       shape: rect
       title: http://tg.whatfettle.com
+      top: 2684
+      width: 621
     - coords: '3180,2466,3306,2652'
+      height: 186
       href: http://en.wikipedia.org/wiki/Denge
+      id: DengeSoundMirrors
+      left: 3180
       shape: rect
       title: Denge Sound Mirrors
+      top: 2466
+      width: 126
     - coords: '2859,2545,3194,2697'
+      height: 152
       href: http://en.wikipedia.org/wiki/Brighton
+      id: Brighton
+      left: 2859
       shape: rect
       title: Brighton
+      top: 2545
+      width: 335
     - coords: '3399,2710,3650,2780'
+      height: 70
       href: http://osmosoft.com
+      id: Osmosoft
+      left: 3399
       shape: rect
       title: Osmosoft
+      top: 2710
+      width: 251
     - coords: '3332,2711,3399,2779'
+      height: 68
       href: http://creativecommons.org/licenses/by/3.0/
+      id: CreativeCommonsCC
+      left: 3332
       shape: rect
       title: Creative Commons (CC)
+      top: 2711
+      width: 67
     - coords: '3183,2710,3334,2780'
+      height: 70
       href: http://blog.whatfettle.com
+      id: PaulDowneypsd
+      left: 3183
       shape: rect
       title: Paul Downey (psd)
+      top: 2710
+      width: 151
     - coords: '2842,2213,3111,2435'
+      height: 222
       href: http://en.wikipedia.org/wiki/Down_House
+      id: DownHouse
+      left: 2842
       shape: rect
       title: Down House
+      top: 2213
+      width: 269
     - coords: '2861,2408,3178,2547'
+      height: 139
       href: http://www.ditchling-museum.com
+      id: DitchlingMuseum
+      left: 2861
       shape: rect
       title: Ditchling Museum
+      top: 2408
+      width: 317
     - coords: '3274,2413,3422,2637'
+      height: 224
       href: http://en.wikipedia.org/wiki/Dungeness_(headland)
+      id: DerekJarmansHouseDungeness
+      left: 3274
       shape: rect
       title: "Derek Jarman's House, Dungeness"
+      top: 2413
+      width: 148
     - coords: '3398,2304,3652,2457'
+      height: 153
       href: 'http://en.wikipedia.org/wiki/Romney,_Hythe_and_Dymchurch_Railway'
+      id: RomneyHytheandDymchurchRailway
+      left: 3398
       shape: rect
       title: 'Romney, Hythe and Dymchurch Railway'
+      top: 2304
+      width: 254
     - coords: '211,1453,471,1586'
+      height: 133
       href: http://en.wikipedia.org/wiki/Thunderbirds_(TV_series)
+      id: Thunderbirds
+      left: 211
       shape: rect
       title: Thunderbirds
+      top: 1453
+      width: 260
     - coords: '27,1279,287,1514'
+      height: 235
       href: http://en.wikipedia.org/wiki/Kew_Bridge_Steam_Museum
+      id: KewBridgeSteamMuseum
+      left: 27
       shape: rect
       title: Kew Bridge Steam Museum
+      top: 1279
+      width: 260
     - coords: '280,1308,472,1456'
+      height: 148
       href: http://en.wikipedia.org/wiki/BBC_Television_Centre
+      id: BBCTVCentre
+      left: 280
       shape: rect
       title: BBC TV Centre
+      top: 1308
+      width: 192
     - coords: '1451,1028,1711,1182'
+      height: 154
       href: http://en.wikipedia.org/wiki/London_Zoo
+      id: LondonZoo
+      left: 1451
       shape: rect
       title: London Zoo
+      top: 1028
+      width: 260
     - coords: '603,2351,715,2513'
+      height: 162
       href: http://en.wikipedia.org/wiki/Cerne_Abbas_giant
+      id: CerneAbbasGiant
+      left: 603
       shape: rect
       title: Cerne Abbas Giant
+      top: 2351
+      width: 112
     - coords: '2843,2002,3178,2214'
+      height: 212
       href: http://en.wikipedia.org/wiki/Ouse_Valley_Viaduct
+      id: OuseValleyViaduct
+      left: 2843
       shape: rect
       title: Ouse Valley Viaduct
+      top: 2002
+      width: 335
     - coords: '875,2023,1110,2214'
+      height: 191
       href: http://en.wikipedia.org/wiki/Atmospheric_railway
+      id: Atmosphericrailway
+      left: 875
       shape: rect
       title: Atmospheric railway
+      top: 2023
+      width: 235
     - coords: '27,1752,198,1884'
+      height: 132
       href: http://en.wikipedia.org/wiki/Newport_Transporter_Bridge
+      id: NewportTransporterBridge
+      left: 27
       shape: rect
       title: Newport Transporter Bridge
+      top: 1752
+      width: 171
     - coords: '3320,1944,3565,2138'
+      height: 194
       href: http://en.wikipedia.org/wiki/Groombridge_Place
+      id: MossyBottom
+      left: 3320
       shape: rect
       title: Mossy Bottom
+      top: 1944
+      width: 245
     - coords: '300,2496,576,2662'
+      height: 166
       href: http://en.wikipedia.org/wiki/Hovercraft_museum
+      id: HovercraftMuseum
+      left: 300
       shape: rect
       title: Hovercraft Museum
+      top: 2496
+      width: 276
     - coords: '495,987,654,1143'
+      height: 156
       href: 'http://en.wikipedia.org/wiki/Museum_of_the_History_of_Science,_Oxford'
+      id: MuseumoftheHistoryofScienceOxford
+      left: 495
       shape: rect
       title: 'Museum of the History of Science, Oxford'
+      top: 987
+      width: 159
     - coords: '1357,801,1476,922'
+      height: 121
       href: http://en.wikipedia.org/wiki/Alan_Turing
+      id: AlanTuring
+      left: 1357
       shape: rect
       title: Alan Turing
+      top: 801
+      width: 119
     - coords: '846,857,1250,1080'
+      height: 223
       href: http://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory
+      id: RutherfordAppletonLaboratory
+      left: 846
       shape: rect
       title: Rutherford Appleton Laboratory
+      top: 857
+      width: 404
     - coords: '653,867,851,1108'
+      height: 241
       href: http://en.wikipedia.org/wiki/Bodleian_Library
+      id: BodleianLibrary
+      left: 653
       shape: rect
       title: Bodleian Library
+      top: 867
+      width: 198
     - coords: '653,734,965,896'
+      height: 162
       href: http://en.wikipedia.org/wiki/Imperial_War_Museum_North
+      id: ImperialWarMuseumNorth
+      left: 653
       shape: rect
       title: Imperial War Museum North
+      top: 734
+      width: 312
     - coords: '409,747,668,1006'
+      height: 259
       href: http://en.wikipedia.org/wiki/Jodrell_Bank_Observatory
+      id: JodrellBankObservatory
+      left: 409
       shape: rect
       title: Jodrell Bank Observatory
+      top: 747
+      width: 259
     - coords: '384,667,542,768'
+      height: 101
       href: http://en.wikipedia.org/wiki/Sellafield
+      id: Sellafield
+      left: 384
       shape: rect
       title: Sellafield
+      top: 667
+      width: 158
     - coords: '667,624,948,799'
+      height: 175
       href: http://en.wikipedia.org/wiki/Hunterian_Museum_and_Art_Gallery
+      id: HunterianMuseumandArtGallery
+      left: 667
       shape: rect
       title: Hunterian Museum and Art Gallery
+      top: 624
+      width: 281
     - coords: '3265,374,3667,571'
+      height: 197
       href: http://www.creatingregionalwealth.com/
+      id: JeffSapersteinTravellingGeek
+      left: 3265
       shape: rect
       title: Jeff Saperstein (Travelling Geek)
+      top: 374
+      width: 402
     - coords: '2541,200,3015,472'
+      height: 272
       href: http://www.siliconvalleywatcher.com/
+      id: TomForemskiTravellingGeek
+      left: 2541
       shape: rect
       title: Tom Foremski (Travelling Geek)
+      top: 200
+      width: 474
     - coords: '1699,0,2097,370'
+      height: 370
       href: http://www.facebook.com/reneeblodgett
+      id: JimSkySchuylerTravellingGeek
+      left: 1699
       shape: rect
       title: Jim 'Sky' Schuyler (Travelling Geek)
+      top: 0
+      width: 398
     - coords: '1386,-1,1702,367'
+      height: 368
       href: http://personallifemedia.com/hosts/224-susan-bratton
+      id: SusanBrattonTravellingGeek
+      left: 1386
       shape: rect
       title: Susan Bratton (Travelling Geek)
+      top: -1
+      width: 316
     - coords: '1015,-5,1388,367'
+      height: 372
       href: http://en.wikipedia.org/wiki/Robert_Scoble
+      id: RobertScobleTravellingGeek
+      left: 1015
       shape: rect
       title: Robert Scoble (Travelling Geek)
+      top: -5
+      width: 373
     - coords: '-6,-1,466,271'
+      height: 272
       href: http://www.nonsociety.com/meghan
+      id: MeghanAshaTravellingGeek
+      left: -6
       shape: rect
       title: Meghan Asha (Travelling Geek)
+      top: -1
+      width: 472
     - coords: '1822,1007,1937,1139'
+      height: 132
       href: http://en.wikipedia.org/wiki/Sir_Tim_Berners-Lee
+      id: SirTimBernersLee
+      left: 1822
       shape: rect
       title: Sir Tim Berners-Lee
+      top: 1007
+      width: 115
     - coords: '3432,1251,3646,1350'
+      height: 99
       href: http://en.wikipedia.org/wiki/Adastral_Park
+      id: AdastralPark
+      left: 3432
       shape: rect
       title: Adastral Park
+      top: 1251
+      width: 214
     - coords: '2835,1099,2971,1263'
+      height: 164
       href: http://en.wikipedia.org/wiki/Douglas_adams
+      id: Douglasadams
+      left: 2835
       shape: rect
       title: Douglas adams
+      top: 1099
+      width: 136
     - coords: '1388,1460,1545,1539'
+      height: 79
       href: http://en.wikipedia.org/wiki/Cleopatra's_Needle
+      id: CleopatrasNeedle
+      left: 1388
       shape: rect
       title: Cleopatra's Needle
+      top: 1460
+      width: 157
     - coords: '1083,1761,1343,2080'
+      height: 319
       href: http://en.wikipedia.org/wiki/London_Eye
+      id: LondonEye
+      left: 1083
       shape: rect
       title: London Eye
+      top: 1761
+      width: 260
     - coords: '1101,1439,1325,1547'
+      height: 108
       href: http://en.wikipedia.org/wiki/Whitehall
+      id: Whitehall
+      left: 1101
       shape: rect
       title: Whitehall
+      top: 1439
+      width: 224
     - coords: '635,1379,732,1444'
+      height: 65
       href: http://en.wikipedia.org/wiki/Royal_Geographical_Society
+      id: RoyalGeographicalSociety
+      left: 635
       shape: rect
       title: Royal Geographical Society
+      top: 1379
+      width: 97
     - coords: '986,1161,1118,1265'
+      height: 104
       href: http://en.wikipedia.org/wiki/Royal_Society
+      id: RoyalSociety
+      left: 986
       shape: rect
       title: Royal Society
+      top: 1161
+      width: 132
     - coords: '911,1065,1102,1158'
+      height: 93
       href: http://en.wikipedia.org/wiki/Royal_Institution
+      id: RoyalInstitution
+      left: 911
       shape: rect
       title: Royal Institution
+      top: 1065
+      width: 191
     - coords: '1201,1231,1320,1370'
+      height: 139
       href: http://en.wikipedia.org/wiki/Admiralty_Arch
+      id: AdmiraltyArch
+      left: 1201
       shape: rect
       title: Admiralty Arch
+      top: 1231
+      width: 119
     - coords: '2220,1008,2495,1196'
+      height: 188
       href: http://en.wikipedia.org/wiki/British_Library
+      id: BritishLibrary
+      left: 2220
       shape: rect
       title: British Library
+      top: 1008
+      width: 275
     - coords: '2011,1004,2169,1335'
+      height: 331
       href: http://en.wikipedia.org/wiki/Senate_House_(University_of_London)
+      id: SenateHouseUniversityofLondon
+      left: 2011
       shape: rect
       title: Senate House (University of London)
+      top: 1004
+      width: 158
     - coords: '1459,1180,1571,1309'
+      height: 129
       href: http://en.wikipedia.org/wiki/West_End_theatre
+      id: WestEndtheatre
+      left: 1459
       shape: rect
       title: West End theatre
+      top: 1180
+      width: 112
     - coords: '2038,592,2185,770'
+      height: 178
       href: http://en.wikipedia.org/wiki/Lewis_Carroll
+      id: LewisCarroll
+      left: 2038
       shape: rect
       title: Lewis Carroll
+      top: 592
+      width: 147
     - coords: '2031,749,2241,1004'
+      height: 255
       href: 'http://en.wikipedia.org/wiki/Thinktank,_Birmingham'
+      id: ThinktankBirmingham
+      left: 2031
       shape: rect
       title: 'Thinktank, Birmingham'
+      top: 749
+      width: 210
     - coords: '1439,2093,1704,2217'
+      height: 124
       href: http://en.wikipedia.org/wiki/Kempton_Park_Steam_Engines
+      id: KemptonParkSteamEngines
+      left: 1439
       shape: rect
       title: Kempton Park Steam Engines
+      top: 2093
+      width: 265
     - coords: '1266,2091,1372,2215'
+      height: 124
       href: http://en.wikipedia.org/wiki/William_Oughtred
+      id: WilliamOughtred
+      left: 1266
       shape: rect
       title: William Oughtred
+      top: 2091
+      width: 106
     - coords: '1924,1268,2054,1414'
+      height: 146
       href: http://en.wikipedia.org/wiki/John_Foxx
+      id: JohnFoxx
+      left: 1924
       shape: rect
       title: John Foxx
+      top: 1268
+      width: 130
     - coords: '2171,1165,2374,1338'
+      height: 173
       href: http://en.wikipedia.org/wiki/Kingsway_tramway_subway
+      id: Kingswaytramwaysubway
+      left: 2171
       shape: rect
       title: Kingsway tramway subway
+      top: 1165
+      width: 203
     - coords: '2057,1318,2107,1368'
+      height: 50
       href: http://en.wikipedia.org/wiki/British_Museum
+      id: BritishMuseum
+      left: 2057
       shape: rect
       title: British Museum
+      top: 1318
+      width: 50
     - coords: '2474,819,2873,1105'
+      height: 286
       href: http://en.wikipedia.org/wiki/Waltham_Abbey_Royal_Gunpowder_Mills
+      id: WalthamAbbeyRoyalGunpowderMills
+      left: 2474
       shape: rect
       title: Waltham Abbey Royal Gunpowder Mills
+      top: 819
+      width: 399
     - coords: '2179,768,2473,1024'
+      height: 256
       href: http://en.wikipedia.org/wiki/Elstree_Studios
+      id: ElstreeStudios
+      left: 2179
       shape: rect
       title: Elstree Studios
+      top: 768
+      width: 294
     - coords: '2384,1197,2652,1335'
+      height: 138
       href: http://en.wikipedia.org/wiki/Forbidden_Planet_(bookstore)
+      id: ForbiddenPlanetbookstore
+      left: 2384
       shape: rect
       title: Forbidden Planet (bookstore)
+      top: 1197
+      width: 268
     - coords: '2345,614,2547,817'
+      height: 203
       href: http://en.wikipedia.org/wiki/Museum_of_Scotland
+      id: MuseumofScotland
+      left: 2345
       shape: rect
       title: Museum of Scotland
+      top: 614
+      width: 202
     - coords: '2177,556,2374,752'
+      height: 196
       href: http://en.wikipedia.org/wiki/Dolly_(sheep)
+      id: Dollysheep
+      left: 2177
       shape: rect
       title: Dolly (sheep)
+      top: 556
+      width: 197
     - coords: '2229,713,2424,815'
+      height: 102
       href: http://en.wikipedia.org/wiki/RAF_Fauld_Explosion
+      id: RAFFauldExplosion
+      left: 2229
       shape: rect
       title: RAF Fauld Explosion
+      top: 713
+      width: 195
     - coords: '2544,661,2706,848'
+      height: 187
       href: http://en.wikipedia.org/wiki/John_Napier
+      id: JohnNapier
+      left: 2544
       shape: rect
       title: John Napier
+      top: 661
+      width: 162
     - coords: '3240,1000,3431,1234'
+      height: 234
       href: 'http://en.wikipedia.org/wiki/Gonville_and_Caius_College,_Cambridge'
+      id: GonvilleandCaiusCollegeCambridge
+      left: 3240
       shape: rect
       title: 'Gonville and Caius College, Cambridge'
+      top: 1000
+      width: 191
     - coords: '2865,847,3076,981'
+      height: 134
       href: http://en.wikipedia.org/wiki/Acorn_Computers
+      id: AcornComputers
+      left: 2865
       shape: rect
       title: Acorn Computers
+      top: 847
+      width: 211
     - coords: '2803,686,3054,848'
+      height: 162
       href: http://en.wikipedia.org/wiki/Forth_Railway_Bridge
+      id: ForthRailwayBridge
+      left: 2803
       shape: rect
       title: Forth Railway Bridge
+      top: 686
+      width: 251
     - coords: '2703,682,2845,847'
+      height: 165
       href: http://en.wikipedia.org/wiki/John_Logie_Baird
+      id: JohnLogieBaird
+      left: 2703
       shape: rect
       title: John Logie Baird
+      top: 682
+      width: 142
     - coords: '3253,1230,3446,1339'
+      height: 109
       href: http://en.wikipedia.org/wiki/Kelvedon_Hatch_Secret_Nuclear_Bunker
+      id: KelvedonHatchSecretNuclearBunker
+      left: 3253
       shape: rect
       title: Kelvedon Hatch Secret Nuclear Bunker
+      top: 1230
+      width: 193
     - coords: '3078,1159,3251,1252'
+      height: 93
       href: http://en.wikipedia.org/wiki/Cuffley
+      id: Cuffley
+      left: 3078
       shape: rect
       title: Cuffley
+      top: 1159
+      width: 173
     - coords: '2772,1426,3236,1690'
+      height: 264
       href: http://en.wikipedia.org/wiki/Bank_of_England
+      id: BankofEngland
+      left: 2772
       shape: rect
       title: Bank of England
+      top: 1426
+      width: 464
     - coords: '1547,1462,1647,1542'
+      height: 80
       href: http://en.wikipedia.org/wiki/Somerset_House
+      id: SomersetHouse
+      left: 1547
       shape: rect
       title: Somerset House
+      top: 1462
+      width: 100
     - coords: '1987,1530,2121,1616'
+      height: 86
       href: http://en.wikipedia.org/wiki/Cannon_Street_station
+      id: CannonStreetstation
+      left: 1987
       shape: rect
       title: Cannon Street station
+      top: 1530
+      width: 134
     - coords: '1838,2088,2397,2218'
+      height: 130
       href: http://en.wikipedia.org/wiki/Borough_Market
+      id: BoroughMarket
+      left: 1838
       shape: rect
       title: Borough Market
+      top: 2088
+      width: 559
     - coords: '959,1537,1122,1935'
+      height: 398
       href: http://en.wikipedia.org/wiki/Westminster_Bridge
+      id: WestminsterBridge
+      left: 959
       shape: rect
       title: Westminster Bridge
+      top: 1537
+      width: 163
     - coords: '1287,1479,1397,1987'
+      height: 508
       href: http://en.wikipedia.org/wiki/Hungerford_Bridge_and_Golden_Jubilee_Bridges
+      id: HungerfordBridgeandGoldenJubileeBridges
+      left: 1287
       shape: rect
       title: Hungerford Bridge and Golden Jubilee Bridges
+      top: 1479
+      width: 110
     - coords: '1546,1414,1693,1465'
+      height: 51
       href: http://en.wikipedia.org/wiki/Royal_College_of_Surgeons_of_England#Hunterian_Museum_at_the_Royal_College_of_Surgeons_of_England
+      id: RoyalCollegeofSurgeonsofEnglandHunterianMuseumattheRoyalCollegeofSurgeonsofEngland
+      left: 1546
       shape: rect
       title: Royal College of Surgeons of England#Hunterian Museum at the Royal College of Surgeons of England
+      top: 1414
+      width: 147
     - coords: '2359,1383,2483,1686'
+      height: 303
       href: http://en.wikipedia.org/wiki/Monument_to_the_Great_Fire_of_London
+      id: MonumenttotheGreatFireofLondon
+      left: 2359
       shape: rect
       title: Monument to the Great Fire of London
+      top: 1383
+      width: 124
     - coords: '2413,1323,2538,1498'
+      height: 175
       href: http://en.wikipedia.org/wiki/Lloyd's_building
+      id: Lloydsbuilding
+      left: 2413
       shape: rect
       title: Lloyd's building
+      top: 1323
+      width: 125
     - coords: '451,1228,596,1350'
+      height: 122
       href: http://en.wikipedia.org/wiki/MONIAC_Computer
+      id: MONIACComputer
+      left: 451
       shape: rect
       title: MONIAC Computer
+      top: 1228
+      width: 145
     - coords: '424,1745,631,1860'
+      height: 115
       href: http://en.wikipedia.org/wiki/The_Fish-Slapping_Dance
+      id: TheFishSlappingDance
+      left: 424
       shape: rect
       title: The Fish-Slapping Dance
+      top: 1745
+      width: 207
     - coords: '756,1158,927,1238'
+      height: 80
       href: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+      id: ArthurConanDoyle
+      left: 756
       shape: rect
       title: Arthur Conan Doyle
+      top: 1158
+      width: 171
     - coords: '3141,970,3272,1163'
+      height: 193
       href: http://en.wikipedia.org/wiki/Clifford_Cocks
+      id: CliffordCocks
+      left: 3141
       shape: rect
       title: Clifford Cocks
+      top: 970
+      width: 131
     - coords: '867,1555,958,1929'
+      height: 374
       href: http://en.wikipedia.org/wiki/Lambeth_Bridge
+      id: LambethBridge
+      left: 867
       shape: rect
       title: Lambeth Bridge
+      top: 1555
+      width: 91
     - coords: '3061,797,3250,983'
+      height: 186
       href: http://en.wikipedia.org/wiki/J._R._R._Tolkien
+      id: JRRTolkien
+      left: 3061
       shape: rect
       title: J. R. R. Tolkien
+      top: 797
+      width: 189
     - coords: '1921,996,2018,1128'
+      height: 132
       href: http://en.wikipedia.org/wiki/Wellcome_Trust_Sanger_Institute
+      id: WellcomeTrustSangerInstitute
+      left: 1921
       shape: rect
       title: Wellcome Trust Sanger Institute
+      top: 996
+      width: 97
     - coords: '470,1511,676,1599'
+      height: 88
       href: http://en.wikipedia.org/wiki/Michelin_House
+      id: MichelinHouse
+      left: 470
       shape: rect
       title: Michelin House
+      top: 1511
+      width: 206
     - coords: '568,1600,630,1782'
+      height: 182
       href: http://en.wikipedia.org/wiki/Chelsea_Bridge
+      id: ChelseaBridge
+      left: 568
       shape: rect
       title: Chelsea Bridge
+      top: 1600
+      width: 62
     - coords: '664,1487,749,1584'
+      height: 97
       href: http://en.wikipedia.org/wiki/Millbank_Prison
+      id: MillbankPrison
+      left: 664
       shape: rect
       title: Millbank Prison
+      top: 1487
+      width: 85
     - coords: '507,1590,566,1793'
+      height: 203
       href: 'http://en.wikipedia.org/wiki/Albert_Bridge,_London'
+      id: AlbertBridgeLondon
+      left: 507
       shape: rect
       title: 'Albert Bridge, London'
+      top: 1590
+      width: 59
     - coords: '378,1592,487,1732'
+      height: 140
       href: http://en.wikipedia.org/wiki/Battersea_Bridge
+      id: BatterseaBridge
+      left: 378
       shape: rect
       title: Battersea Bridge
+      top: 1592
+      width: 109
     - coords: '2365,2066,2675,2221'
+      height: 155
       href: http://en.wikipedia.org/wiki/Old_Operating_Theatre
+      id: OldOperatingTheatre
+      left: 2365
       shape: rect
       title: Old Operating Theatre
+      top: 2066
+      width: 310
     - coords: '1706,2170,1874,2215'
+      height: 45
       href: http://en.wikipedia.org/wiki/Cross_Bones
+      id: CrossBones
+      left: 1706
       shape: rect
       title: Cross Bones
+      top: 2170
+      width: 168
     - coords: '662,1857,797,2026'
+      height: 169
       href: http://en.wikipedia.org/wiki/Wimbledon_Windmill
+      id: WimbledonWindmill
+      left: 662
       shape: rect
       title: Wimbledon Windmill
+      top: 1857
+      width: 135
     - coords: '2482,1576,2668,1718'
+      height: 142
       href: http://en.wikipedia.org/wiki/St_Olave_Hart_Street
+      id: StOlaveHartStreet
+      left: 2482
       shape: rect
       title: St Olave Hart Street
+      top: 1576
+      width: 186
     - coords: '2757,1662,3031,1756'
+      height: 94
       href: http://en.wikipedia.org/wiki/Docklands_Light_Railway
+      id: DocklandsLightRailway
+      left: 2757
       shape: rect
       title: Docklands Light Railway
+      top: 1662
+      width: 274
     - coords: '3284,1321,3444,1439'
+      height: 118
       href: http://en.wikipedia.org/wiki/London_Olympic_Stadium
+      id: LondonOlympicStadium
+      left: 3284
       shape: rect
       title: London Olympic Stadium
+      top: 1321
+      width: 160
     - coords: '2790,1711,2880,1778'
+      height: 67
       href: http://en.wikipedia.org/wiki/St_Katharine_Docks
+      id: StKatharineDocks
+      left: 2790
       shape: rect
       title: St Katharine Docks
+      top: 1711
+      width: 90
     - coords: '3390,1010,3578,1185'
+      height: 175
       href: http://en.wikipedia.org/wiki/Isaac_Newton
+      id: IsaacNewton
+      left: 3390
       shape: rect
       title: Isaac Newton
+      top: 1010
+      width: 188
     - coords: '3503,926,3648,1059'
+      height: 133
       href: http://en.wikipedia.org/wiki/The_Eagle_(pub)
+      id: TheEaglepub
+      left: 3503
       shape: rect
       title: The Eagle (pub)
+      top: 926
+      width: 145
     - coords: '1389,1364,1516,1474'
+      height: 110
       href: http://en.wikipedia.org/wiki/Davenports
+      id: Davenports
+      left: 1389
       shape: rect
       title: Davenports
+      top: 1364
+      width: 127
     - coords: '1436,328,2177,1185'
+      height: 857
       href: http://en.wikipedia.org/wiki/BT_Tower
+      id: BTTower
+      left: 1436
       shape: rect
       title: BT Tower
+      top: 328
+      width: 741
     - coords: '2984,0,3668,475'
+      height: 475
       href: http://www.socialmedia.biz/
+      id: JDLasicaTravellingGeek
+      left: 2984
       shape: rect
       title: JD Lasica (Travelling Geek)
+      top: 0
+      width: 684
     - coords: '2089,2,2983,472'
+      height: 470
       href: http://en.wikipedia.org/wiki/Howard_Rheingold
+      id: HowardRheingoldTravellingGeeks
+      left: 2089
       shape: rect
       title: Howard Rheingold (Travelling Geeks)
+      top: 2
+      width: 894
     - coords: '827,-1,1120,213'
+      height: 214
       href: http://www.blonde2dot0.com/blog/
+      id: AyeletNoffTravellingGeek
+      left: 827
       shape: rect
       title: Ayelet Noff (Travelling Geek)
+      top: -1
+      width: 293
     - coords: '927,579,1190,859'
+      height: 280
       href: http://en.wikipedia.org/wiki/Rushton_Triangular_Lodge
+      id: RushtonTriangularLodge
+      left: 927
       shape: rect
       title: Rushton Triangular Lodge
+      top: 579
+      width: 263
     - coords: '1168,465,1581,803'
+      height: 338
       href: http://en.wikipedia.org/wiki/Falkirk_wheel
+      id: FalkirkWheel
+      left: 1168
       shape: rect
       title: Falkirk Wheel
+      top: 465
+      width: 413
     - coords: '441,1,854,284'
+      height: 283
       href: http://www.downtheavenue.com/
+      id: ReneeBlodgettTravellingGeek
+      left: 441
       shape: rect
       title: Renee Blodgett (Travelling Geek)
+      top: 1
+      width: 413
     - coords: '0,144,369,396'
+      height: 252
       href: http://en.wikipedia.org/wiki/Craig_Newmark
+      id: CraigNewmarkTravellingGeek
+      left: 0
       shape: rect
       title: Craig Newmark (Travelling Geek)
+      top: 144
+      width: 369
     - coords: '27,1117,356,1404'
+      height: 287
       href: http://en.wikipedia.org/wiki/Pontcysyllte_Aqueduct
+      id: PontcysyllteAqueduct
+      left: 27
       shape: rect
       title: Pontcysyllte Aqueduct
+      top: 1117
+      width: 329
     - coords: '1264,1174,1460,1365'
+      height: 191
       href: http://en.wikipedia.org/wiki/Trafalgar_Square
+      id: TrafalgarSquare
+      left: 1264
       shape: rect
       title: Trafalgar Square
+      top: 1174
+      width: 196
     - coords: '430,1140,654,1238'
+      height: 98
       href: http://en.wikipedia.org/wiki/Royal_Albert_Hall
+      id: RoyalAlbertHall
+      left: 430
       shape: rect
       title: Royal Albert Hall
+      top: 1140
+      width: 224
     - coords: '291,1003,522,1204'
+      height: 201
       href: http://en.wikipedia.org/wiki/The_Iron_Bridge
+      id: Ironbridge
+      left: 291
       shape: rect
       title: Ironbridge
+      top: 1003
+      width: 231
     - coords: '181,668,438,1033'
+      height: 365
       href: http://en.wikipedia.org/wiki/Beatles
+      id: Beatles
+      left: 181
       shape: rect
       title: Beatles
+      top: 668
+      width: 257
     - coords: '1819,1535,2091,2090'
+      height: 555
       href: http://en.wikipedia.org/wiki/Cannon_Street_Railway_Bridge
+      id: CannonStreetRailwayBridge
+      left: 1819
       shape: rect
       title: Cannon Street Railway Bridge
+      top: 1535
+      width: 272
     - coords: '2607,1599,2767,1797'
+      height: 198
       href: http://en.wikipedia.org/wiki/The_Tower_of_London
+      id: TheTower
+      left: 2607
       shape: rect
       title: The Tower
+      top: 1599
+      width: 160
     - coords: '2725,1710,2984,2008'
+      height: 298
       href: http://en.wikipedia.org/wiki/Tower_bridge
+      id: TowerBridge
+      left: 2725
       shape: rect
       title: Tower Bridge
+      top: 1710
+      width: 259
     - coords: '796,1243,1232,1401'
+      height: 158
       href: http://en.wikipedia.org/wiki/St._James's_Park
+      id: StJamessPark
+      left: 796
       shape: rect
       title: St. James's Park
+      top: 1243
+      width: 436
     - coords: '938,1373,1111,1624'
+      height: 251
       href: http://en.wikipedia.org/wiki/Palace_of_Westminster
+      id: HousesofParliament
+      left: 938
       shape: rect
       title: Houses of Parliament
+      top: 1373
+      width: 173
     - coords: '1322,2035,1482,2178'
+      height: 143
       href: http://en.wikipedia.org/wiki/London_IMAX
+      id: LondonIMAX
+      left: 1322
       shape: rect
       title: London IMAX
+      top: 2035
+      width: 160
     - coords: '1402,1516,1516,2037'
+      height: 521
       href: http://en.wikipedia.org/wiki/Waterloo_Bridge
+      id: WaterlooBridge
+      left: 1402
       shape: rect
       title: Waterloo Bridge
+      top: 1516
+      width: 114
     - coords: '1292,1361,1404,1504'
+      height: 143
       href: http://en.wikipedia.org/wiki/Charing_Cross
+      id: CharingCross
+      left: 1292
       shape: rect
       title: Charing Cross
+      top: 1361
+      width: 112
     - coords: '1432,1523,1734,2039'
+      height: 516
       href: http://en.wikipedia.org/wiki/Blackfriars_Bridge
+      id: BlackfriarsBridges
+      left: 1432
       shape: rect
       title: Blackfriars Bridges
+      top: 1523
+      width: 302
     - coords: '1614,1529,1824,1987'
+      height: 458
       href: http://en.wikipedia.org/wiki/Millennium_Bridge_(London)
+      id: MillenniumBridge
+      left: 1614
       shape: rect
       title: Millennium Bridge
+      top: 1529
+      width: 210
     - coords: '178,1479,3453,2126'
+      height: 647
       href: http://en.wikipedia.org/wiki/River_Thames
+      id: RiverThames
+      left: 178
       shape: rect
       title: River Thames
+      top: 1479
+      width: 3275
     - coords: '3445,1892,3665,2327'
+      height: 435
       href: http://en.wikipedia.org/wiki/Thames_Estuary
+      id: ThamesEstuary
+      left: 3445
       shape: rect
       title: Thames Estuary
+      top: 1892
+      width: 220
     - coords: '3445,585,3883,1015'
+      height: 430
       href: http://en.wikipedia.org/wiki/North_sea
+      id: NorthSea
+      left: 3445
       shape: rect
       title: North Sea
+      top: 585
+      width: 438
     - coords: '31,636,257,961'
+      height: 325
       href: http://en.wikipedia.org/wiki/Irish_Sea
+      id: IrishSea
+      left: 31
       shape: rect
       title: Irish Sea
+      top: 636
+      width: 226
     - coords: '144,2254,678,2452'
+      height: 198
       href: http://en.wikipedia.org/wiki/Ley_line
+      id: LeyLines
+      left: 144
       shape: rect
       title: Ley Lines
+      top: 2254
+      width: 534
     - coords: '5,186,3148,732'
+      height: 546
       href: http://en.wikipedia.org/wiki/Radio_broadcasting
+      id: RadioBroadcasting
+      left: 5
       shape: rect
       title: Radio Broadcasting
+      top: 186
+      width: 3143
     - coords: '2314,1334,3388,1774'
+      height: 440
       href: http://en.wikipedia.org/wiki/City_of_London
+      id: TheCity
+      left: 2314
       shape: rect
       title: The City
+      top: 1334
+      width: 1074
     - coords: '1708,1220,1839,1304'
+      height: 84
       href: http://en.wikipedia.org/wiki/Buzby
+      id: Buzby
+      left: 1708
       shape: rect
       title: Buzby
+      top: 1220
+      width: 131
     - coords: '1494,1285,1710,1460'
+      height: 175
       href: http://en.wikipedia.org/wiki/London_Transport_Museum
+      id: LondonTransportMuseum
+      left: 1494
       shape: rect
       title: London Transport Museum
+      top: 1285
+      width: 216
     - coords: '1925,1189,2051,1301'
+      height: 112
       href: http://en.wikipedia.org/wiki/Tottenham_Court_Road
+      id: TottenhamCourtRoad
+      left: 1925
       shape: rect
       title: Tottenham Court Road
+      top: 1189
+      width: 126
