@@ -1,0 +1,58 @@
+<html>
+<head>
+<style type="text/css">
+#map {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#map img { 
+    display: none; 
+}
+
+#map ul {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    list-style-type: none;
+}
+
+#map li {
+    list-style-type: none;
+}
+
+#map li a span { 
+    display: none;
+}
+
+#map li a {
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none; 
+    top: -2.5em;
+}
+
+[% FOREACH area IN map.area -%]
+#[% area.id %] {
+    background: transparent url([% img.src %]) top left no-repeat;
+    background-position: -[% area.left %]px -[% area.top %]px;
+    width: [% area.width %]px;
+    height: [% area.height %]px;
+    margin: 3.5em;
+}
+[% END %]
+</style>
+</head>
+<body>
+<div id="map">
+    <img src="[% img.src %]" border="0">
+    <ul>
+[% FOREACH area IN map.area -%]
+        <li id="[% area.id %]"><a href="[% area.href %]" title="[% area.title %]" alt="[% area.title %]">[% area.title %]</a></li>
+[% END %]
+    </ul>
+</div>
+</body>
+</html>
