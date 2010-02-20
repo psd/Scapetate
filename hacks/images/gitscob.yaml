@@ -4,6 +4,8 @@ user: psd
 img:
   map: GITSCOB
   src: image.png
+  width: 3671
+  height: 2807
 map:
   name: GITSCOB
   area:
@@ -469,7 +471,7 @@ map:
     - coords: '943,1299,1083,1408'
       height: 109
       href: http://www.osmosoft.com/
-      id: Osmosoft
+      id: OsmosoftTowers
       left: 943
       shape: rect
       title: '@Osmosoft'

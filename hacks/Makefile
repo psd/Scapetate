@@ -17,9 +17,13 @@ TARGETS=\
 	$(OUTDIR)/image.png\
 	$(OUTDIR)/imagemap.html\
 	$(OUTDIR)/cssmap.html\
+	$(OUTDIR)/sprites.html\
 	$(OUTDIR)/tiddlywiki.html
 
 all:	$(TARGETS)
+
+$(OUTDIR)/sprites.html:	$(TEMPLATESDIR)/sprites.html $(IN)
+	$(TT) "$(IN)" "$(TEMPLATESDIR)/sprites.html" "$@"
 
 $(OUTDIR)/cssmap.html:	$(TEMPLATESDIR)/cssmap.html $(IN)
 	$(TT) "$(IN)" "$(TEMPLATESDIR)/cssmap.html" "$@"
