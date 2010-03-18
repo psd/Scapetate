@@ -1,15 +1,14 @@
 ---
-title: Geekery is the Social Capital of Britain
-user: psd
 img:
+  height: 2807
   map: GITSCOB
   src: image.png
   width: 3671
-  height: 2807
 map:
-  name: GITSCOB
   area:
     - coords: '2946,1294,3026,1337'
+      latitude: 51.52351
+      longitude: -0.11046
       height: 43
       href: http://moo.com
       id: moo
@@ -19,8 +18,10 @@ map:
       top: 1294
       width: 80
     - coords: '2955,1371,3058,1417'
+      latitude: 51.52762
+      longitude: -0.08583
       height: 46
-      href: http://www.last.fm/
+      href: http://en.wikipedia.org/wiki/Last.fm
       id: lastfm
       left: 2955
       shape: rect
@@ -37,6 +38,8 @@ map:
       top: 1367
       width: 103
     - coords: '1429,1282,1519,1368'
+      latitude: 51.509043
+      longitude: -0.12215
       height: 86
       href: 'http://en.wikipedia.org/wiki/Royal_Society_for_the_encouragement_of_Arts,_Manufactures_%26_Commerce'
       id: RSA
@@ -46,6 +49,8 @@ map:
       top: 1282
       width: 90
     - coords: '28,611,135,811'
+      latitude: 55.24083
+      longitude: -6.51167
       height: 200
       href: http://en.wikipedia.org/wiki/Giant%27s_Causeway
       id: GiantsCauseway
@@ -55,6 +60,8 @@ map:
       top: 611
       width: 107
     - coords: '31,2432,3643,2687'
+      latitude: 50.18361
+      longitude: -0.53111
       height: 255
       href: http://en.wikipedia.org/wiki/English_channel
       id: EnglishChannel
@@ -64,6 +71,8 @@ map:
       top: 2432
       width: 3612
     - coords: '1120,1629,1286,1767'
+      latitude: 51.50341
+      longitude: -0.120527
       height: 138
       href: http://en.wikipedia.org/wiki/Waterloo_Millennium_Pier
       id: RiverCruises
@@ -82,6 +91,8 @@ map:
       top: 1385
       width: 123
     - coords: '1850,1315,1968,1414'
+      latitude: 51.5156
+      longitude: -0.0978
       height: 99
       href: http://en.wikipedia.org/wiki/BT_Centre
       id: BTCentre
@@ -91,6 +102,8 @@ map:
       top: 1315
       width: 118
     - coords: '1935,1121,2014,1196'
+      latitude: 51.514657
+      longitude: -0.133652
       height: 75
       href: http://en.wikipedia.org/wiki/Private_Eye
       id: PrivateEye
@@ -100,6 +113,8 @@ map:
       top: 1121
       width: 79
     - coords: '1825,1128,2001,1325'
+      latitude: 51.515861
+      longitude: -0.129694
       height: 197
       href: http://en.wikipedia.org/wiki/Centre_Point
       id: CentrePointTower
@@ -109,6 +124,8 @@ map:
       top: 1128
       width: 176
     - coords: '1755,1949,1811,2049'
+      latitude: 51.5079
+      longitude: -0.0953
       height: 100
       href: http://en.wikipedia.org/wiki/Ofcom
       id: Ofcom
@@ -118,6 +135,8 @@ map:
       top: 1949
       width: 56
     - coords: '2961,1060,3160,1192'
+      latitude: 52.09306
+      longitude: 0.12944
       height: 132
       href: http://en.wikipedia.org/wiki/Imperial_War_Museum_Duxford
       id: Duxford
@@ -127,6 +146,8 @@ map:
       top: 1060
       width: 199
     - coords: '2865,953,3100,1093'
+      latitude: 52.20225
+      longitude: 0.13357
       height: 140
       href: http://en.wikipedia.org/wiki/Sinclair_Research
       id: SinclairResearch
@@ -136,6 +157,8 @@ map:
       top: 953
       width: 235
     - coords: '3066,963,3190,1092'
+      latitude: 
+      longitude: 
       height: 129
       href: http://en.wikipedia.org/wiki/BBC_Micro
       id: BBCMicro
@@ -154,8 +177,10 @@ map:
       top: 1297
       width: 131
     - coords: '3165,1256,3267,1300'
+      latitude: 51.525490
+      longitude: -0.088250
       height: 44
-      href: http://dopplr.com
+      href: http://en.wikipedia.org/wiki/Dopplr
       id: dopplr
       left: 3165
       shape: rect
@@ -163,8 +188,10 @@ map:
       top: 1256
       width: 102
     - coords: '3236,1429,3432,1487'
+      latitude: 51.52869
+      longitude: -0.05369
       height: 58
-      href: http://schoolofeverything.com/
+      href: http://en.wikipedia.org/wiki/School_of_Everything
       id: schoolofeverything
       left: 3236
       shape: rect
@@ -181,6 +208,8 @@ map:
       top: 1093
       width: 159
     - coords: '3234,1481,3416,1675'
+      latitude: 51.51589
+      longitude: -0.12523
       height: 194
       href: http://en.wikipedia.org/wiki/Greyworld#The_Source_.282004.29
       id: TheSource
@@ -190,6 +219,8 @@ map:
       top: 1481
       width: 182
     - coords: '2996,1419,3156,1517'
+      latitude: 51.515
+      longitude: -0.099028
       height: 98
       href: http://en.wikipedia.org/wiki/London_Stock_Exchange
       id: StockExchange
@@ -199,6 +230,8 @@ map:
       top: 1419
       width: 160
     - coords: '2538,1520,2773,1598'
+      latitude: 51.51917
+      longitude: -0.09389
       height: 78
       href: http://en.wikipedia.org/wiki/Barbican_Estate
       id: TheBarbican
@@ -208,6 +241,8 @@ map:
       top: 1520
       width: 235
     - coords: '2598,1339,2728,1529'
+      latitude: 51.5086
+      longitude: -0.1206
       height: 190
       href: http://en.wikipedia.org/wiki/Griffin
       id: Griffins
@@ -217,6 +252,8 @@ map:
       top: 1339
       width: 130
     - coords: '2442,1391,2616,1610'
+      latitude: 51.51444
+      longitude: -0.08028
       height: 219
       href: http://en.wikipedia.org/wiki/30_St_Mary_Axe
       id: TheGherkin
@@ -226,6 +263,8 @@ map:
       top: 1391
       width: 174
     - coords: '2144,1489,2297,1600'
+      latitude: 51.519444
+      longitude: -0.126944
       height: 111
       href: http://en.wikipedia.org/wiki/Rosetta_Stone
       id: RosettaStone
@@ -235,6 +274,8 @@ map:
       top: 1489
       width: 153
     - coords: '2105,1266,2318,1584'
+      latitude: 51.51944
+      longitude: -0.12694
       height: 318
       href: http://en.wikipedia.org/wiki/British_Museum
       id: BritishMuseum
@@ -244,6 +285,8 @@ map:
       top: 1266
       width: 213
     - coords: '1809,1342,1944,1508'
+      latitude: 51.5138
+      longitude: -0.098
       height: 166
       href: http://en.wikipedia.org/wiki/St_Paul%27s_Cathedral
       id: StPaulsCathedral
@@ -253,6 +296,8 @@ map:
       top: 1342
       width: 135
     - coords: '1740,1424,1853,1556'
+      latitude: 51.51139
+      longitude: -0.09861
       height: 132
       href: http://en.wikipedia.org/wiki/Baynard%27s_Castle
       id: BaynardsCastle
@@ -262,6 +307,8 @@ map:
       top: 1424
       width: 113
     - coords: '1743,1292,1827,1430'
+      latitude: 51.51417
+      longitude: -0.10889
       height: 138
       href: http://en.wikipedia.org/wiki/Fleet_Street
       id: FleetStreet
@@ -271,6 +318,8 @@ map:
       top: 1292
       width: 84
     - coords: '1665,1338,1769,1465'
+      latitude: 51.51389
+      longitude: -0.10583
       height: 127
       href: http://en.wikipedia.org/wiki/St_Bride%27s_Church
       id: StBrides
@@ -280,6 +329,8 @@ map:
       top: 1338
       width: 104
     - coords: '1691,1293,1779,1362'
+      latitude: 51.516525
+      longitude: -0.108623
       height: 69
       href: http://en.wikipedia.org/wiki/National_Endowment_for_Science_Technology_and_the_Arts
       id: NESTA
@@ -298,6 +349,8 @@ map:
       top: 1227
       width: 149
     - coords: '1564,1154,1713,1282'
+      latitude: 51.513
+      longitude: -0.135
       height: 128
       href: http://en.wikipedia.org/wiki/Soho
       id: Soho
@@ -307,6 +360,8 @@ map:
       top: 1154
       width: 149
     - coords: '1688,1118,1839,1228'
+      latitude: 51.5147
+      longitude: -0.1301
       height: 110
       href: http://en.wikipedia.org/wiki/Foyles
       id: Foyles
@@ -325,6 +380,8 @@ map:
       top: 2115
       width: 119
     - coords: '1632,1917,1752,2078'
+      latitude: 51.50806
+      longitude: -0.09722
       height: 161
       href: http://en.wikipedia.org/wiki/Shakespeare%27s_Globe
       id: Globe
@@ -334,6 +391,8 @@ map:
       top: 1917
       width: 120
     - coords: '1516,1852,1652,2092'
+      latitude: 51.50778
+      longitude: -0.09917
       height: 240
       href: http://en.wikipedia.org/wiki/Tate_Modern
       id: TateModern
@@ -343,6 +402,8 @@ map:
       top: 1852
       width: 136
     - coords: '913,1852,1123,2012'
+      latitude: 51.50194
+      longitude: -0.11889
       height: 160
       href: http://en.wikipedia.org/wiki/London_Aquarium
       id: LondonAquarium
@@ -352,6 +413,8 @@ map:
       top: 1852
       width: 210
     - coords: '779,1757,885,1831'
+      latitude: 51.501944
+      longitude: -0.118889
       height: 74
       href: http://en.wikipedia.org/wiki/Duck_tour
       id: DuckTours
@@ -361,6 +424,8 @@ map:
       top: 1757
       width: 106
     - coords: '680,1571,803,1902'
+      latitude: 51.4875
+      longitude: -0.12694
       height: 331
       href: http://en.wikipedia.org/wiki/Vauxhall_Bridge
       id: VauxhallBridge
@@ -397,6 +462,8 @@ map:
       top: 1414
       width: 122
     - coords: '1382,1833,1422,1994'
+      latitude: 51.5072
+      longitude: -0.1157
       height: 161
       href: http://en.wikipedia.org/wiki/BFI_Southbank
       id: BFI
@@ -406,6 +473,8 @@ map:
       top: 1833
       width: 40
     - coords: '1358,1785,1447,1987'
+      latitude: 51.5058361
+      longitude: -0.1167889
       height: 202
       href: http://en.wikipedia.org/wiki/Royal_Festival_Hall
       id: RoyalFestivalHall
@@ -415,6 +484,8 @@ map:
       top: 1785
       width: 89
     - coords: '1416,1855,1516,2027'
+      latitude: 51.5071
+      longitude: -0.1141
       height: 172
       href: http://en.wikipedia.org/wiki/Royal_National_Theatre
       id: NationalTheatre
@@ -433,6 +504,8 @@ map:
       top: 1368
       width: 97
     - coords: '1180,1353,1296,1420'
+      latitude: 51.50401
+      longitude: -0.12979
       height: 67
       href: http://en.wikipedia.org/wiki/Horseguards_Parade
       id: HorseguardsParade
@@ -442,6 +515,8 @@ map:
       top: 1353
       width: 116
     - coords: '1108,1407,1199,1470'
+      latitude: 51.502083
+      longitude: -0.129028
       height: 63
       href: http://en.wikipedia.org/wiki/Churchill_Museum_and_Cabinet_War_Rooms
       id: ChurchillMuseum
@@ -460,6 +535,8 @@ map:
       top: 1390
       width: 92
     - coords: '980,1375,1090,1553'
+      latitude: 51.49944
+      longitude: -0.1275
       height: 178
       href: http://en.wikipedia.org/wiki/Westminster_Abbey
       id: WestminsterAbbey
@@ -478,6 +555,8 @@ map:
       top: 1299
       width: 140
     - coords: '854,1230,1001,1325'
+      latitude: 51.50917
+      longitude: -0.13944
       height: 95
       href: http://en.wikipedia.org/wiki/Royal_Academy
       id: RoyalAcademy
@@ -487,6 +566,8 @@ map:
       top: 1230
       width: 147
     - coords: '758,1210,852,1289'
+      latitude: 51.51306
+      longitude: -0.15889
       height: 79
       href: http://en.wikipedia.org/wiki/Marble_arch
       id: MarbleArch
@@ -496,6 +577,8 @@ map:
       top: 1210
       width: 94
     - coords: '702,1268,862,1393'
+      latitude: 51.501
+      longitude: -0.142
       height: 125
       href: http://en.wikipedia.org/wiki/Buckingham_palace
       id: BuckinghamPalace
@@ -505,6 +588,8 @@ map:
       top: 1268
       width: 160
     - coords: '680,1386,808,1447'
+      latitude: 51.4995861
+      longitude: -0.1635167
       height: 61
       href: http://en.wikipedia.org/wiki/Harrods
       id: Harrods
@@ -514,6 +599,8 @@ map:
       top: 1386
       width: 128
     - coords: '791,1431,899,1534'
+      latitude: 51.497222
+      longitude: -0.133901
       height: 103
       href: http://en.wikipedia.org/wiki/Strutton_Ground_Market
       id: FlatCapCoffeeCo
@@ -523,6 +610,8 @@ map:
       top: 1431
       width: 108
     - coords: '724,1477,875,1633'
+      latitude: 51.49083
+      longitude: -0.12722
       height: 156
       href: http://en.wikipedia.org/wiki/Tate_Britain
       id: TateBritain
@@ -532,6 +621,8 @@ map:
       top: 1477
       width: 151
     - coords: '633,1433,802,1502'
+      latitude: 51.48722
+      longitude: -0.15528
       height: 69
       href: http://en.wikipedia.org/wiki/Ranelagh_Gardens
       id: RanelaghGardens
@@ -541,6 +632,8 @@ map:
       top: 1433
       width: 169
     - coords: '452,1404,657,1554'
+      latitude: 51.4959833
+      longitude: -0.1763722
       height: 150
       href: http://en.wikipedia.org/wiki/London_Natural_History_Museum
       id: NaturalHistoryMuseum
@@ -550,6 +643,8 @@ map:
       top: 1404
       width: 205
     - coords: '476,1296,581,1416'
+      latitude: 51.495983
+      longitude: -0.176372
       height: 120
       href: http://en.wikipedia.org/wiki/Charles_Babbage
       id: CharlesBabbage
@@ -558,7 +653,11 @@ map:
       title: Charles Babbage
       top: 1296
       width: 105
+      latitude: 51.4975
+      longitude: -0.17472
     - coords: '474,1285,638,1426'
+      latitude: 51.4975
+      longitude: -0.17472
       height: 141
       href: http://en.wikipedia.org/wiki/London_Science_Museum
       id: LondonScienceMuseum
@@ -568,6 +667,8 @@ map:
       top: 1285
       width: 164
     - coords: '633,1251,723,1382'
+      latitude: 51.50278
+      longitude: -0.15125
       height: 131
       href: http://en.wikipedia.org/wiki/Hyde_Park_Corner
       id: HydeParkCorner
@@ -577,6 +678,8 @@ map:
       top: 1251
       width: 90
     - coords: '755,1090,810,1160'
+      latitude: 51.5200
+      longitude: -0.1566
       height: 70
       href: http://en.wikipedia.org/wiki/Baker_Street
       id: BakerStreet
@@ -586,6 +689,8 @@ map:
       top: 1090
       width: 55
     - coords: '651,1113,760,1274'
+      latitude: 51.5025
+      longitude: -0.17778
       height: 161
       href: http://en.wikipedia.org/wiki/Albert_Memorial
       id: AlbertMemorial
@@ -595,6 +700,8 @@ map:
       top: 1113
       width: 109
     - coords: '25,1517,215,1751'
+      latitude: 51.4818
+      longitude: -0.1447
       height: 234
       href: http://en.wikipedia.org/wiki/Battersea_Power_Station
       id: BatterseaPowerStation
@@ -604,6 +711,8 @@ map:
       top: 1517
       width: 190
     - coords: '185,1601,434,1753'
+      latitude: 51.4103
+      longitude: -0.2995
       height: 152
       href: http://en.wikipedia.org/wiki/Kingston_upon_Thames
       id: OutofOrder
@@ -613,6 +722,8 @@ map:
       top: 1601
       width: 249
     - coords: '275,1682,430,1839'
+      latitude: 52.08
+      longitude: -3.13
       height: 157
       href: http://en.wikipedia.org/wiki/Hay_on_wye
       id: HayonWye
@@ -622,6 +733,8 @@ map:
       top: 1682
       width: 155
     - coords: '191,1674,310,1844'
+      latitude: 52.08
+      longitude: -3.13
       height: 170
       href: http://en.wikipedia.org/wiki/Hereford_Mappa_Mundi
       id: MappaMundi
@@ -631,6 +744,8 @@ map:
       top: 1674
       width: 119
     - coords: '31,1885,319,2111'
+      latitude: 51.48528
+      longitude: -3.18667
       height: 226
       href: http://en.wikipedia.org/wiki/Cardiff
       id: Torchwood
@@ -640,6 +755,8 @@ map:
       top: 1885
       width: 288
     - coords: '242,1841,497,2029'
+      latitude: 51.85113
+      longitude: -2.32951
       height: 188
       href: http://en.wikipedia.org/wiki/Minsterworth
       id: SevernBore
@@ -649,6 +766,8 @@ map:
       top: 1841
       width: 255
     - coords: '528,1974,687,2047'
+      latitude: 51.72204
+      longitude: -2.48058
       height: 73
       href: http://en.wikipedia.org/wiki/Edward_Jenner
       id: EdwardJenner
@@ -667,6 +786,8 @@ map:
       top: 1834
       width: 192
     - coords: '633,2260,744,2377'
+      latitude: 51.35253
+      longitude: -2.02559
       height: 117
       href: http://en.wikipedia.org/wiki/Caen_Hill_Locks
       id: LocksDevizes
@@ -685,6 +806,8 @@ map:
       top: 2483
       width: 167
     - coords: '486,2392,601,2543'
+      latitude: 50.8018111
+      longitude: -1.109583
       height: 151
       href: http://en.wikipedia.org/wiki/HMS_Victory
       id: HMSVictory
@@ -694,6 +817,8 @@ map:
       top: 2392
       width: 115
     - coords: '302,2398,509,2543'
+      latitude: 50.7196
+      longitude: -1.8985
       height: 145
       href: 'http://en.wikipedia.org/wiki/Westbourne,_Dorset'
       id: DrJekyllandMrHyde
@@ -703,6 +828,8 @@ map:
       top: 2398
       width: 207
     - coords: '228,2111,406,2271'
+      latitude: 50.36194
+      longitude: -4.74472
       height: 160
       href: http://en.wikipedia.org/wiki/Eden_Project
       id: EdenProject
@@ -730,6 +857,8 @@ map:
       top: 2183
       width: 2206
     - coords: '1989,1937,2118,2116'
+      latitude: 50.39667
+      longitude: -3.51278
       height: 179
       href: http://en.wikipedia.org/wiki/Golden_Hind
       id: GoldenHind
@@ -739,6 +868,8 @@ map:
       top: 1937
       width: 129
     - coords: '2041,1850,2311,2118'
+      latitude: 51.50611
+      longitude: -0.08972
       height: 268
       href: http://en.wikipedia.org/wiki/Southwark_Cathedral
       id: Soutwarke
@@ -748,6 +879,8 @@ map:
       top: 1850
       width: 270
     - coords: '2152,1759,2258,1857'
+      latitude: 51.5075
+      longitude: -0.0871
       height: 98
       href: http://en.wikipedia.org/wiki/Nonsuch_House
       id: NonSuch
@@ -757,6 +890,8 @@ map:
       top: 1759
       width: 106
     - coords: '2227,1640,2483,2117'
+      latitude: 51.50806
+      longitude: -0.08778
       height: 477
       href: http://en.wikipedia.org/wiki/London_Bridge
       id: LondonBridge
@@ -766,6 +901,8 @@ map:
       top: 1640
       width: 256
     - coords: '2608,1911,2805,2051'
+      latitude: 51.5066611
+      longitude: -0.08125
       height: 140
       href: http://en.wikipedia.org/wiki/HMS_Belfast_(C35)
       id: HMSBelfast
@@ -775,6 +912,8 @@ map:
       top: 1911
       width: 197
     - coords: '2947,1878,3096,2024'
+      latitude: 51.502766
+      longitude: -0.071862
       height: 146
       href: http://en.wikipedia.org/wiki/Design_Museum
       id: DesignMuseum
@@ -784,6 +923,8 @@ map:
       top: 1878
       width: 149
     - coords: '3057,1830,3220,2011'
+      latitude: 51.502766
+      longitude: -0.071862
       height: 181
       href: http://en.wikipedia.org/wiki/Lemuel_Gulliver
       id: LemuelGulliver
@@ -802,6 +943,8 @@ map:
       top: 1695
       width: 234
     - coords: '3175,1767,3341,1981'
+      latitude: 51.5016
+      longitude: -0.0530
       height: 214
       href: http://en.wikipedia.org/wiki/Brunel_Museum
       id: BrunelMuseum
@@ -811,6 +954,8 @@ map:
       top: 1767
       width: 166
     - coords: '3360,1745,3472,1908'
+      latitude: 51.4866
+      longitude: -0.0093
       height: 163
       href: http://en.wikipedia.org/wiki/Greenwich_foot_tunnel
       id: Greenwichfoottunnel
@@ -820,6 +965,8 @@ map:
       top: 1745
       width: 112
     - coords: '3427,1423,3646,1595'
+      latitude: 51.497744
+      longitude: 0.036679
       height: 172
       href: http://en.wikipedia.org/wiki/Thames_Barrier
       id: ThamesBarrier
@@ -829,6 +976,8 @@ map:
       top: 1423
       width: 219
     - coords: '3437,1338,3646,1450'
+      latitude: 51.509056
+      longitude: 0.13833
       height: 112
       href: http://en.wikipedia.org/wiki/Crossness_Pumping_Station
       id: CrossnessPumpingStation
@@ -838,6 +987,8 @@ map:
       top: 1338
       width: 209
     - coords: '3436,1595,3594,1718'
+      latitude: 51.5028167
+      longitude: 0.0031167
       height: 123
       href: http://en.wikipedia.org/wiki/Millennium_Dome
       id: MillenniumDome
@@ -847,6 +998,8 @@ map:
       top: 1595
       width: 158
     - coords: '3449,1711,3645,1868'
+      latitude: 51.48111
+      longitude: -0.00556
       height: 157
       href: http://en.wikipedia.org/wiki/National_Maritime_Museum
       id: NationalMaritimeMuseum
@@ -856,6 +1009,8 @@ map:
       top: 1711
       width: 196
     - coords: '3424,1759,3647,1989'
+      latitude: 51.4778111
+      longitude: -0.001475
       height: 230
       href: http://en.wikipedia.org/wiki/Greenwich_Observatory
       id: GreenwichObservatory
@@ -865,6 +1020,8 @@ map:
       top: 1759
       width: 223
     - coords: '2770,1217,2954,1423'
+      latitude: 51.52361
+      longitude: -0.08889
       height: 206
       href: http://en.wikipedia.org/wiki/Bunhill_Fields
       id: BunhillFields
@@ -874,6 +1031,8 @@ map:
       top: 1217
       width: 184
     - coords: '2670,1056,2859,1213'
+      latitude: 51.5349
+      longitude: -0.1219
       height: 157
       href: http://en.wikipedia.org/wiki/Kings_Place
       id: TheGuardian
@@ -883,6 +1042,8 @@ map:
       top: 1056
       width: 189
     - coords: '2486,1033,2673,1219'
+      latitude: 51.5321
+      longitude: -0.1233
       height: 186
       href: http://en.wikipedia.org/wiki/London_King%27s_Cross_railway_station#Relationship_with_Harry_Potter
       id: KingsCross
@@ -892,6 +1053,8 @@ map:
       top: 1033
       width: 187
     - coords: '2732,1997,2890,2162'
+      latitude: 51.50472
+      longitude: -0.07833
       height: 165
       href: http://en.wikipedia.org/wiki/City_Hall_(London)
       id: DarthVadersHelmet
@@ -901,6 +1064,8 @@ map:
       top: 1997
       width: 158
     - coords: '2656,2096,2812,2223'
+      latitude: 50.91278
+      longitude: -0.15389
       height: 127
       href: http://en.wikipedia.org/wiki/Clayton_Tunnel
       id: ClaytonTunnel
@@ -910,6 +1075,8 @@ map:
       top: 2096
       width: 156
     - coords: '3415,2545,3648,2691'
+      latitude: 50.183611
+      longitude: -0.531111
       height: 146
       href: http://en.wikipedia.org/wiki/Hovercraft
       id: Hovercraft
@@ -919,6 +1086,8 @@ map:
       top: 2545
       width: 233
     - coords: '3419,2431,3653,2574'
+      latitude: 50.87
+      longitude: 0.346111
       height: 143
       href: http://en.wikipedia.org/wiki/Radar
       id: Radar
@@ -928,6 +1097,8 @@ map:
       top: 2431
       width: 234
     - coords: '3453,1060,3650,1265'
+      latitude: 52.32993
+      longitude: 1.68538
       height: 205
       href: http://en.wikipedia.org/wiki/Southwold_Pier
       id: SouthwoldPier
@@ -937,6 +1108,8 @@ map:
       top: 1060
       width: 197
     - coords: '3228,875,3516,1018'
+      latitude: 53.95980
+      longitude: -1.09771
       height: 143
       href: http://en.wikipedia.org/wiki/National_Railway_Museum
       id: NationalRailwayMuseumYork
@@ -946,6 +1119,8 @@ map:
       top: 875
       width: 288
     - coords: '3423,803,3633,926'
+      latitude: 54.3616
+      longitude: -0.6697
       height: 123
       href: http://en.wikipedia.org/wiki/RAF_Fylingdales
       id: Fylingdales
@@ -955,6 +1130,8 @@ map:
       top: 803
       width: 210
     - coords: '3378,721,3599,817'
+      latitude: 54.4858
+      longitude: -0.6206
       height: 96
       href: http://en.wikipedia.org/wiki/Whitby
       id: WhitbyDracula
@@ -964,6 +1141,8 @@ map:
       top: 721
       width: 221
     - coords: '3208,666,3468,883'
+      latitude: 54.914111
+      longitude: -1.589417
       height: 217
       href: http://en.wikipedia.org/wiki/Angel_of_the_North
       id: AngeloftheNorth
@@ -973,6 +1152,8 @@ map:
       top: 666
       width: 260
     - coords: '1800,1562,1978,2006'
+      latitude: 51.50889
+      longitude: -0.09444
       height: 444
       href: http://en.wikipedia.org/wiki/Southwark_Bridge
       id: SouthwarkBridge
@@ -991,6 +1172,8 @@ map:
       top: 1130
       width: 125
     - coords: '759,1072,912,1158'
+      latitude: 51.52278
+      longitude: -0.15556
       height: 86
       href: http://en.wikipedia.org/wiki/London_Planetarium
       id: LondonPlanetarium
@@ -1000,6 +1183,8 @@ map:
       top: 1072
       width: 153
     - coords: '3056,685,3207,845'
+      latitude: 54.88194
+      longitude: -1.65833
       height: 160
       href: http://en.wikipedia.org/wiki/Beamish_Museum
       id: BeamishMuseum
@@ -1018,6 +1203,8 @@ map:
       top: 1532
       width: 50
     - coords: '907,1969,1085,2058'
+      latitude: 51.41475
+      longitude: -2.11718
       height: 89
       href: http://en.wikipedia.org/wiki/Lacock_Abbey
       id: LacockAbbey
@@ -1027,6 +1214,8 @@ map:
       top: 1969
       width: 178
     - coords: '2603,1201,2817,1343'
+      latitude: 51.59389
+      longitude: -0.13
       height: 142
       href: http://en.wikipedia.org/wiki/Alexandra_Palace
       id: AlexandraPalace
@@ -1036,6 +1225,8 @@ map:
       top: 1201
       width: 214
     - coords: '1988,1401,2122,1536'
+      latitude: 51.51167
+      longitude: -0.08944
       height: 135
       href: http://en.wikipedia.org/wiki/London_Stone
       id: LondonStone
@@ -1045,6 +1236,8 @@ map:
       top: 1401
       width: 134
     - coords: '2135,1006,2286,1102'
+      latitude: 51.5262
+      longitude: -0.1178
       height: 96
       href: http://en.wikipedia.org/wiki/Bloomsbury
       id: Bloomsbury
@@ -1054,6 +1247,8 @@ map:
       top: 1006
       width: 151
     - coords: '3442,2139,3650,2331'
+      latitude: 51.271111
+      longitude: 0.498611
       height: 192
       href: http://en.wikipedia.org/wiki/Stuckism
       id: Stuckism
@@ -1072,6 +1267,8 @@ map:
       top: 2495
       width: 124
     - coords: '28,933,288,1130'
+      latitude: 52.91778
+      longitude: -4.09293
       height: 197
       href: http://en.wikipedia.org/wiki/Portmeirion
       id: Portmeirion
@@ -1081,6 +1278,8 @@ map:
       top: 933
       width: 260
     - coords: '537,657,690,792'
+      latitude: 52.91778
+      longitude: -4.09293
       height: 135
       href: http://en.wikipedia.org/wiki/Manchester_Small-Scale_Experimental_Machine
       id: Baby
@@ -1090,6 +1289,8 @@ map:
       top: 657
       width: 153
     - coords: '1178,798,1337,916'
+      latitude: 51.65917
+      longitude: -1.22639
       height: 118
       href: http://en.wikipedia.org/wiki/Joint_European_Torus
       id: JetLab
@@ -1099,6 +1300,8 @@ map:
       top: 798
       width: 159
     - coords: '1285,1028,1504,1190'
+      latitude: 51.5260591
+      longitude: -0.191014
       height: 162
       href: http://en.wikipedia.org/wiki/Delia_Derbyshire
       id: DeliaDerbyshire
@@ -1108,6 +1311,8 @@ map:
       top: 1028
       width: 219
     - coords: '1237,803,1578,1080'
+      latitude: 51.99651
+      longitude: -0.74276
       height: 277
       href: http://en.wikipedia.org/wiki/Bletchley_Park
       id: BletchleyPark
@@ -1126,6 +1331,8 @@ map:
       top: 376
       width: 377
     - coords: '258,1198,449,1334'
+      latitude: 51.561629
+      longitude: -0.238401
       height: 136
       href: http://en.wikipedia.org/wiki/Tommy_Flowers
       id: TommyFlowers
@@ -1135,6 +1342,8 @@ map:
       top: 1198
       width: 191
     - coords: '799,1869,909,2035'
+      latitude: 51.487194
+      longitude: -0.124056
       height: 166
       href: http://en.wikipedia.org/wiki/Mi6
       id: MI6Shhh
@@ -1144,6 +1353,8 @@ map:
       top: 1869
       width: 110
     - coords: '1059,2080,1269,2212'
+      latitude: 51.43167
+      longitude: -0.13917
       height: 132
       href: http://en.wikipedia.org/wiki/Tooting_Bec_Lido
       id: Lido
@@ -1153,6 +1364,8 @@ map:
       top: 2080
       width: 210
     - coords: '722,2028,904,2214'
+      latitude: 51.31523
+      longitude: -0.438268
       height: 186
       href: http://en.wikipedia.org/wiki/Chatley_Heath
       id: ChatleyHeath
@@ -1162,6 +1375,8 @@ map:
       top: 2028
       width: 182
     - coords: '548,2049,726,2287'
+      latitude: 51.42861
+      longitude: -1.85417
       height: 238
       href: http://en.wikipedia.org/wiki/Avebury
       id: Avebury
@@ -1171,6 +1386,8 @@ map:
       top: 2049
       width: 178
     - coords: '423,2155,572,2290'
+      latitude: 51.155015
+      longitude: -2.585598
       height: 135
       href: http://en.wikipedia.org/wiki/Glastonbury_Festival
       id: Glasto
@@ -1180,6 +1397,8 @@ map:
       top: 2155
       width: 149
     - coords: '388,1977,548,2171'
+      latitude: 51.5402
+      longitude: -2.410989
       height: 194
       href: http://en.wikipedia.org/wiki/Banksy
       id: Banksy
@@ -1189,6 +1408,8 @@ map:
       top: 1977
       width: 160
     - coords: '174,2289,610,2345'
+      latitude: html
+      longitude: html
       height: 56
       href: http://en.wikipedia.org/wiki/Scale_(map)
       id: nonduccouilanx
@@ -1198,6 +1419,8 @@ map:
       top: 2289
       width: 436
     - coords: '27,2083,263,2340'
+      latitude: 50.04806
+      longitude: -5.18194
       height: 257
       href: http://en.wikipedia.org/wiki/Goonhilly
       id: Goonhilly
@@ -1207,6 +1430,8 @@ map:
       top: 2083
       width: 236
     - coords: '27,2339,196,2467'
+      latitude: 50.04336
+      longitude: -5.65423
       height: 128
       href: http://en.wikipedia.org/wiki/Porthcurno
       id: Porthcurno
@@ -1216,6 +1441,8 @@ map:
       top: 2339
       width: 169
     - coords: '25,2467,153,2608'
+      latitude: 50.033
+      longitude: -5.267
       height: 141
       href: http://en.wikipedia.org/wiki/Poldhu
       id: Poldhu
@@ -1230,10 +1457,12 @@ map:
       id: httptgwhatfettlecom
       left: 25
       shape: rect
-      title: http://tg.whatfettle.com
+      title: tg.whatfettle.com
       top: 2684
       width: 621
     - coords: '3180,2466,3306,2652'
+      latitude: 50.95611
+      longitude: 0.95389
       height: 186
       href: http://en.wikipedia.org/wiki/Denge
       id: DengeSoundMirrors
@@ -1243,6 +1472,8 @@ map:
       top: 2466
       width: 126
     - coords: '2859,2545,3194,2697'
+      latitude: 50.842941
+      longitude: -0.1313120
       height: 152
       href: http://en.wikipedia.org/wiki/Brighton
       id: Brighton
@@ -1279,6 +1510,8 @@ map:
       top: 2710
       width: 151
     - coords: '2842,2213,3111,2435'
+      latitude: 51.33100
+      longitude: 0.05264
       height: 222
       href: http://en.wikipedia.org/wiki/Down_House
       id: DownHouse
@@ -1297,6 +1530,8 @@ map:
       top: 2408
       width: 317
     - coords: '3274,2413,3422,2637'
+      latitude: 50.917
+      longitude: 0.967
       height: 224
       href: http://en.wikipedia.org/wiki/Dungeness_(headland)
       id: DerekJarmansHouseDungeness
@@ -1306,6 +1541,8 @@ map:
       top: 2413
       width: 148
     - coords: '3398,2304,3652,2457'
+      latitude: 51.033
+      longitude: 1
       height: 153
       href: 'http://en.wikipedia.org/wiki/Romney,_Hythe_and_Dymchurch_Railway'
       id: RomneyHytheandDymchurchRailway
@@ -1315,6 +1552,8 @@ map:
       top: 2304
       width: 254
     - coords: '211,1453,471,1586'
+      latitude: html
+      longitude: html
       height: 133
       href: http://en.wikipedia.org/wiki/Thunderbirds_(TV_series)
       id: Thunderbirds
@@ -1324,6 +1563,8 @@ map:
       top: 1453
       width: 260
     - coords: '27,1279,287,1514'
+      latitude: 51.4890
+      longitude: -0.2904
       height: 235
       href: http://en.wikipedia.org/wiki/Kew_Bridge_Steam_Museum
       id: KewBridgeSteamMuseum
@@ -1333,6 +1574,8 @@ map:
       top: 1279
       width: 260
     - coords: '280,1308,472,1456'
+      latitude: 51.51028
+      longitude: -0.22611
       height: 148
       href: http://en.wikipedia.org/wiki/BBC_Television_Centre
       id: BBCTVCentre
@@ -1342,6 +1585,8 @@ map:
       top: 1308
       width: 192
     - coords: '1451,1028,1711,1182'
+      latitude: 51.53556
+      longitude: -0.15583
       height: 154
       href: http://en.wikipedia.org/wiki/London_Zoo
       id: LondonZoo
@@ -1351,6 +1596,8 @@ map:
       top: 1028
       width: 260
     - coords: '603,2351,715,2513'
+      latitude: 50.81361
+      longitude: -2.47472
       height: 162
       href: http://en.wikipedia.org/wiki/Cerne_Abbas_giant
       id: CerneAbbasGiant
@@ -1360,6 +1607,8 @@ map:
       top: 2351
       width: 112
     - coords: '2843,2002,3178,2214'
+      latitude: 51.03472
+      longitude: -0.11444
       height: 212
       href: http://en.wikipedia.org/wiki/Ouse_Valley_Viaduct
       id: OuseValleyViaduct
@@ -1369,6 +1618,8 @@ map:
       top: 2002
       width: 335
     - coords: '875,2023,1110,2214'
+      latitude: html
+      longitude: html
       height: 191
       href: http://en.wikipedia.org/wiki/Atmospheric_railway
       id: Atmosphericrailway
@@ -1378,6 +1629,8 @@ map:
       top: 2023
       width: 235
     - coords: '27,1752,198,1884'
+      latitude: 51.57056
+      longitude: -2.98583
       height: 132
       href: http://en.wikipedia.org/wiki/Newport_Transporter_Bridge
       id: NewportTransporterBridge
@@ -1387,6 +1640,8 @@ map:
       top: 1752
       width: 171
     - coords: '3320,1944,3565,2138'
+      latitude: 51.11833
+      longitude: 0.19056
       height: 194
       href: http://en.wikipedia.org/wiki/Groombridge_Place
       id: MossyBottom
@@ -1396,6 +1651,8 @@ map:
       top: 1944
       width: 245
     - coords: '300,2496,576,2662'
+      latitude: 50.80759
+      longitude: -1.20974
       height: 166
       href: http://en.wikipedia.org/wiki/Hovercraft_museum
       id: HovercraftMuseum
@@ -1405,6 +1662,8 @@ map:
       top: 2496
       width: 276
     - coords: '495,987,654,1143'
+      latitude: 51.75443
+      longitude: -1.25519
       height: 156
       href: 'http://en.wikipedia.org/wiki/Museum_of_the_History_of_Science,_Oxford'
       id: MuseumoftheHistoryofScienceOxford
@@ -1414,6 +1673,8 @@ map:
       top: 987
       width: 159
     - coords: '1357,801,1476,922'
+      latitude: html
+      longitude: html
       height: 121
       href: http://en.wikipedia.org/wiki/Alan_Turing
       id: AlanTuring
@@ -1423,6 +1684,8 @@ map:
       top: 801
       width: 119
     - coords: '846,857,1250,1080'
+      latitude: 51.57333
+      longitude: -1.31472
       height: 223
       href: http://en.wikipedia.org/wiki/Rutherford_Appleton_Laboratory
       id: RutherfordAppletonLaboratory
@@ -1432,6 +1695,8 @@ map:
       top: 857
       width: 404
     - coords: '653,867,851,1108'
+      latitude: 51.753972
+      longitude: -1.255139
       height: 241
       href: http://en.wikipedia.org/wiki/Bodleian_Library
       id: BodleianLibrary
@@ -1441,6 +1706,8 @@ map:
       top: 867
       width: 198
     - coords: '653,734,965,896'
+      latitude: 53.469722
+      longitude: -2.298889
       height: 162
       href: http://en.wikipedia.org/wiki/Imperial_War_Museum_North
       id: ImperialWarMuseumNorth
@@ -1450,6 +1717,8 @@ map:
       top: 734
       width: 312
     - coords: '409,747,668,1006'
+      latitude: 53.23625
+      longitude: -2.307139
       height: 259
       href: http://en.wikipedia.org/wiki/Jodrell_Bank_Observatory
       id: JodrellBankObservatory
@@ -1459,6 +1728,8 @@ map:
       top: 747
       width: 259
     - coords: '384,667,542,768'
+      latitude: 54.4205
+      longitude: -3.4975
       height: 101
       href: http://en.wikipedia.org/wiki/Sellafield
       id: Sellafield
@@ -1468,6 +1739,8 @@ map:
       top: 667
       width: 158
     - coords: '667,624,948,799'
+      latitude: 55.87194
+      longitude: -4.28861
       height: 175
       href: http://en.wikipedia.org/wiki/Hunterian_Museum_and_Art_Gallery
       id: HunterianMuseumandArtGallery
@@ -1513,6 +1786,8 @@ map:
       top: -1
       width: 316
     - coords: '1015,-5,1388,367'
+      latitude: html
+      longitude: html
       height: 372
       href: http://en.wikipedia.org/wiki/Robert_Scoble
       id: RobertScobleTravellingGeek
@@ -1531,6 +1806,8 @@ map:
       top: -1
       width: 472
     - coords: '1822,1007,1937,1139'
+      latitude: html
+      longitude: html
       height: 132
       href: http://en.wikipedia.org/wiki/Sir_Tim_Berners-Lee
       id: SirTimBernersLee
@@ -1540,6 +1817,8 @@ map:
       top: 1007
       width: 115
     - coords: '3432,1251,3646,1350'
+      latitude: 52.05889
+      longitude: 1.27889
       height: 99
       href: http://en.wikipedia.org/wiki/Adastral_Park
       id: AdastralPark
@@ -1549,6 +1828,8 @@ map:
       top: 1251
       width: 214
     - coords: '2835,1099,2971,1263'
+      latitude: html
+      longitude: html
       height: 164
       href: http://en.wikipedia.org/wiki/Douglas_adams
       id: Douglasadams
@@ -1558,6 +1839,8 @@ map:
       top: 1099
       width: 136
     - coords: '1388,1460,1545,1539'
+      latitude: 40.7796306
+      longitude: -73.9654
       height: 79
       href: http://en.wikipedia.org/wiki/Cleopatra's_Needle
       id: CleopatrasNeedle
@@ -1567,6 +1850,8 @@ map:
       top: 1460
       width: 157
     - coords: '1083,1761,1343,2080'
+      latitude: 51.5033
+      longitude: -0.1197
       height: 319
       href: http://en.wikipedia.org/wiki/London_Eye
       id: LondonEye
@@ -1576,6 +1861,8 @@ map:
       top: 1761
       width: 260
     - coords: '1101,1439,1325,1547'
+      latitude: 51.50417
+      longitude: -0.12639
       height: 108
       href: http://en.wikipedia.org/wiki/Whitehall
       id: Whitehall
@@ -1585,6 +1872,8 @@ map:
       top: 1439
       width: 224
     - coords: '635,1379,732,1444'
+      latitude: 51.5013
+      longitude: -0.1754
       height: 65
       href: http://en.wikipedia.org/wiki/Royal_Geographical_Society
       id: RoyalGeographicalSociety
@@ -1594,6 +1883,8 @@ map:
       top: 1379
       width: 97
     - coords: '986,1161,1118,1265'
+      latitude: html
+      longitude: html
       height: 104
       href: http://en.wikipedia.org/wiki/Royal_Society
       id: RoyalSociety
@@ -1603,6 +1894,8 @@ map:
       top: 1161
       width: 132
     - coords: '911,1065,1102,1158'
+      latitude: 51.5098
+      longitude: -0.1425
       height: 93
       href: http://en.wikipedia.org/wiki/Royal_Institution
       id: RoyalInstitution
@@ -1612,6 +1905,8 @@ map:
       top: 1065
       width: 191
     - coords: '1201,1231,1320,1370'
+      latitude: 51.5067583
+      longitude: -0.1286917
       height: 139
       href: http://en.wikipedia.org/wiki/Admiralty_Arch
       id: AdmiraltyArch
@@ -1621,6 +1916,8 @@ map:
       top: 1231
       width: 119
     - coords: '2220,1008,2495,1196'
+      latitude: 51.52944
+      longitude: -0.12694
       height: 188
       href: http://en.wikipedia.org/wiki/British_Library
       id: BritishLibrary
@@ -1630,6 +1927,8 @@ map:
       top: 1008
       width: 275
     - coords: '2011,1004,2169,1335'
+      latitude: 51.5210
+      longitude: -0.1287
       height: 331
       href: http://en.wikipedia.org/wiki/Senate_House_(University_of_London)
       id: SenateHouseUniversityofLondon
@@ -1639,6 +1938,8 @@ map:
       top: 1004
       width: 158
     - coords: '1459,1180,1571,1309'
+      latitude: 51.51139
+      longitude: -0.12806
       height: 129
       href: http://en.wikipedia.org/wiki/West_End_theatre
       id: WestEndtheatre
@@ -1648,6 +1949,8 @@ map:
       top: 1180
       width: 112
     - coords: '2038,592,2185,770'
+      latitude: html
+      longitude: html
       height: 178
       href: http://en.wikipedia.org/wiki/Lewis_Carroll
       id: LewisCarroll
@@ -1657,6 +1960,8 @@ map:
       top: 592
       width: 147
     - coords: '2031,749,2241,1004'
+      latitude: 52.4829083
+      longitude: -1.8860583
       height: 255
       href: 'http://en.wikipedia.org/wiki/Thinktank,_Birmingham'
       id: ThinktankBirmingham
@@ -1666,6 +1971,8 @@ map:
       top: 749
       width: 210
     - coords: '1439,2093,1704,2217'
+      latitude: 51.4259
+      longitude: -0.4050
       height: 124
       href: http://en.wikipedia.org/wiki/Kempton_Park_Steam_Engines
       id: KemptonParkSteamEngines
@@ -1675,6 +1982,8 @@ map:
       top: 2093
       width: 265
     - coords: '1266,2091,1372,2215'
+      latitude: html
+      longitude: html
       height: 124
       href: http://en.wikipedia.org/wiki/William_Oughtred
       id: WilliamOughtred
@@ -1684,6 +1993,8 @@ map:
       top: 2091
       width: 106
     - coords: '1924,1268,2054,1414'
+      latitude: html
+      longitude: html
       height: 146
       href: http://en.wikipedia.org/wiki/John_Foxx
       id: JohnFoxx
@@ -1693,6 +2004,8 @@ map:
       top: 1268
       width: 130
     - coords: '2171,1165,2374,1338'
+      latitude: 51.518361
+      longitude: -0.120778
       height: 173
       href: http://en.wikipedia.org/wiki/Kingsway_tramway_subway
       id: Kingswaytramwaysubway
@@ -1702,6 +2015,8 @@ map:
       top: 1165
       width: 203
     - coords: '2057,1318,2107,1368'
+      latitude: 51.51944
+      longitude: -0.12694
       height: 50
       href: http://en.wikipedia.org/wiki/British_Museum
       id: BritishMuseum
@@ -1711,6 +2026,8 @@ map:
       top: 1318
       width: 50
     - coords: '2474,819,2873,1105'
+      latitude: 51.693
+      longitude: -0.009
       height: 286
       href: http://en.wikipedia.org/wiki/Waltham_Abbey_Royal_Gunpowder_Mills
       id: WalthamAbbeyRoyalGunpowderMills
@@ -1720,6 +2037,8 @@ map:
       top: 819
       width: 399
     - coords: '2179,768,2473,1024'
+      latitude: 51.6587
+      longitude: -0.2758
       height: 256
       href: http://en.wikipedia.org/wiki/Elstree_Studios
       id: ElstreeStudios
@@ -1729,6 +2048,8 @@ map:
       top: 768
       width: 294
     - coords: '2384,1197,2652,1335'
+      latitude: html
+      longitude: html
       height: 138
       href: http://en.wikipedia.org/wiki/Forbidden_Planet_(bookstore)
       id: ForbiddenPlanetbookstore
@@ -1738,6 +2059,8 @@ map:
       top: 1197
       width: 268
     - coords: '2345,614,2547,817'
+      latitude: 55.94694
+      longitude: -3.19056
       height: 203
       href: http://en.wikipedia.org/wiki/Museum_of_Scotland
       id: MuseumofScotland
@@ -1747,6 +2070,8 @@ map:
       top: 614
       width: 202
     - coords: '2177,556,2374,752'
+      latitude: html
+      longitude: html
       height: 196
       href: http://en.wikipedia.org/wiki/Dolly_(sheep)
       id: Dollysheep
@@ -1756,6 +2081,8 @@ map:
       top: 556
       width: 197
     - coords: '2229,713,2424,815'
+      latitude: 52.847117
+      longitude: -1.730608
       height: 102
       href: http://en.wikipedia.org/wiki/RAF_Fauld_Explosion
       id: RAFFauldExplosion
@@ -1765,6 +2092,8 @@ map:
       top: 713
       width: 195
     - coords: '2544,661,2706,848'
+      latitude: html
+      longitude: html
       height: 187
       href: http://en.wikipedia.org/wiki/John_Napier
       id: JohnNapier
@@ -1774,6 +2103,8 @@ map:
       top: 661
       width: 162
     - coords: '3240,1000,3431,1234'
+      latitude: 52.205878
+      longitude: 0.117867
       height: 234
       href: 'http://en.wikipedia.org/wiki/Gonville_and_Caius_College,_Cambridge'
       id: GonvilleandCaiusCollegeCambridge
@@ -1783,6 +2114,8 @@ map:
       top: 1000
       width: 191
     - coords: '2865,847,3076,981'
+      latitude: html
+      longitude: html
       height: 134
       href: http://en.wikipedia.org/wiki/Acorn_Computers
       id: AcornComputers
@@ -1792,6 +2125,8 @@ map:
       top: 847
       width: 211
     - coords: '2803,686,3054,848'
+      latitude: 56.000421
+      longitude: -3.388726
       height: 162
       href: http://en.wikipedia.org/wiki/Forth_Railway_Bridge
       id: ForthRailwayBridge
@@ -1801,6 +2136,8 @@ map:
       top: 686
       width: 251
     - coords: '2703,682,2845,847'
+      latitude: html
+      longitude: html
       height: 165
       href: http://en.wikipedia.org/wiki/John_Logie_Baird
       id: JohnLogieBaird
@@ -1810,6 +2147,8 @@ map:
       top: 682
       width: 142
     - coords: '3253,1230,3446,1339'
+      latitude: 51.671806
+      longitude: 0.256556
       height: 109
       href: http://en.wikipedia.org/wiki/Kelvedon_Hatch_Secret_Nuclear_Bunker
       id: KelvedonHatchSecretNuclearBunker
@@ -1819,6 +2158,8 @@ map:
       top: 1230
       width: 193
     - coords: '3078,1159,3251,1252'
+      latitude: 51.7109
+      longitude: -0.1134
       height: 93
       href: http://en.wikipedia.org/wiki/Cuffley
       id: Cuffley
@@ -1828,6 +2169,8 @@ map:
       top: 1159
       width: 173
     - coords: '2772,1426,3236,1690'
+      latitude: 51.51406
+      longitude: -0.08839
       height: 264
       href: http://en.wikipedia.org/wiki/Bank_of_England
       id: BankofEngland
@@ -1837,6 +2180,8 @@ map:
       top: 1426
       width: 464
     - coords: '1547,1462,1647,1542'
+      latitude: 51.511028
+      longitude: -0.117194
       height: 80
       href: http://en.wikipedia.org/wiki/Somerset_House
       id: SomersetHouse
@@ -1846,6 +2191,8 @@ map:
       top: 1462
       width: 100
     - coords: '1987,1530,2121,1616'
+      latitude: 51.5104
+      longitude: -0.0907
       height: 86
       href: http://en.wikipedia.org/wiki/Cannon_Street_station
       id: CannonStreetstation
@@ -1855,6 +2202,8 @@ map:
       top: 1530
       width: 134
     - coords: '1838,2088,2397,2218'
+      latitude: 51.5049083
+      longitude: -0.0910889
       height: 130
       href: http://en.wikipedia.org/wiki/Borough_Market
       id: BoroughMarket
@@ -1864,6 +2213,8 @@ map:
       top: 2088
       width: 559
     - coords: '959,1537,1122,1935'
+      latitude: 51.50083
+      longitude: -0.12194
       height: 398
       href: http://en.wikipedia.org/wiki/Westminster_Bridge
       id: WestminsterBridge
@@ -1873,6 +2224,8 @@ map:
       top: 1537
       width: 163
     - coords: '1287,1479,1397,1987'
+      latitude: 51.50611
+      longitude: -0.12
       height: 508
       href: http://en.wikipedia.org/wiki/Hungerford_Bridge_and_Golden_Jubilee_Bridges
       id: HungerfordBridgeandGoldenJubileeBridges
@@ -1882,6 +2235,8 @@ map:
       top: 1479
       width: 110
     - coords: '1546,1414,1693,1465'
+      latitude: 51.51528
+      longitude: -0.11583
       height: 51
       href: http://en.wikipedia.org/wiki/Royal_College_of_Surgeons_of_England#Hunterian_Museum_at_the_Royal_College_of_Surgeons_of_England
       id: RoyalCollegeofSurgeonsofEnglandHunterianMuseumattheRoyalCollegeofSurgeonsofEngland
@@ -1891,6 +2246,8 @@ map:
       top: 1414
       width: 147
     - coords: '2359,1383,2483,1686'
+      latitude: 51.51013
+      longitude: -0.086001
       height: 303
       href: http://en.wikipedia.org/wiki/Monument_to_the_Great_Fire_of_London
       id: MonumenttotheGreatFireofLondon
@@ -1900,6 +2257,8 @@ map:
       top: 1383
       width: 124
     - coords: '2413,1323,2538,1498'
+      latitude: 51.51306
+      longitude: -0.082361
       height: 175
       href: http://en.wikipedia.org/wiki/Lloyd's_building
       id: Lloydsbuilding
@@ -1909,6 +2268,8 @@ map:
       top: 1323
       width: 125
     - coords: '451,1228,596,1350'
+      latitude: html
+      longitude: html
       height: 122
       href: http://en.wikipedia.org/wiki/MONIAC_Computer
       id: MONIACComputer
@@ -1918,6 +2279,8 @@ map:
       top: 1228
       width: 145
     - coords: '424,1745,631,1860'
+      latitude: 51.4975
+      longitude: -0.174722
       height: 115
       href: http://en.wikipedia.org/wiki/The_Fish-Slapping_Dance
       id: TheFishSlappingDance
@@ -1927,6 +2290,8 @@ map:
       top: 1745
       width: 207
     - coords: '756,1158,927,1238'
+      latitude: html
+      longitude: html
       height: 80
       href: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
       id: ArthurConanDoyle
@@ -1936,6 +2301,8 @@ map:
       top: 1158
       width: 171
     - coords: '3141,970,3272,1163'
+      latitude: html
+      longitude: html
       height: 193
       href: http://en.wikipedia.org/wiki/Clifford_Cocks
       id: CliffordCocks
@@ -1945,6 +2312,8 @@ map:
       top: 970
       width: 131
     - coords: '867,1555,958,1929'
+      latitude: 51.49444
+      longitude: -0.12306
       height: 374
       href: http://en.wikipedia.org/wiki/Lambeth_Bridge
       id: LambethBridge
@@ -1954,6 +2323,8 @@ map:
       top: 1555
       width: 91
     - coords: '3061,797,3250,983'
+      latitude: html
+      longitude: html
       height: 186
       href: http://en.wikipedia.org/wiki/J._R._R._Tolkien
       id: JRRTolkien
@@ -1963,6 +2334,8 @@ map:
       top: 797
       width: 189
     - coords: '1921,996,2018,1128'
+      latitude: 52.083
+      longitude: 0.183
       height: 132
       href: http://en.wikipedia.org/wiki/Wellcome_Trust_Sanger_Institute
       id: WellcomeTrustSangerInstitute
@@ -1972,6 +2345,8 @@ map:
       top: 996
       width: 97
     - coords: '470,1511,676,1599'
+      latitude: 51.4933306
+      longitude: -0.1688778
       height: 88
       href: http://en.wikipedia.org/wiki/Michelin_House
       id: MichelinHouse
@@ -1981,6 +2356,8 @@ map:
       top: 1511
       width: 206
     - coords: '568,1600,630,1782'
+      latitude: 51.48472
+      longitude: -0.15
       height: 182
       href: http://en.wikipedia.org/wiki/Chelsea_Bridge
       id: ChelseaBridge
@@ -1990,6 +2367,8 @@ map:
       top: 1600
       width: 62
     - coords: '664,1487,749,1584'
+      latitude: 51.49139
+      longitude: -0.12889
       height: 97
       href: http://en.wikipedia.org/wiki/Millbank_Prison
       id: MillbankPrison
@@ -1999,6 +2378,8 @@ map:
       top: 1487
       width: 85
     - coords: '507,1590,566,1793'
+      latitude: 51.48222
+      longitude: -0.1666667
       height: 203
       href: 'http://en.wikipedia.org/wiki/Albert_Bridge,_London'
       id: AlbertBridgeLondon
@@ -2008,6 +2389,8 @@ map:
       top: 1590
       width: 59
     - coords: '378,1592,487,1732'
+      latitude: 51.48111
+      longitude: -0.1725
       height: 140
       href: http://en.wikipedia.org/wiki/Battersea_Bridge
       id: BatterseaBridge
@@ -2017,6 +2400,8 @@ map:
       top: 1592
       width: 109
     - coords: '2365,2066,2675,2221'
+      latitude: 51.505
+      longitude: -0.08806
       height: 155
       href: http://en.wikipedia.org/wiki/Old_Operating_Theatre
       id: OldOperatingTheatre
@@ -2026,6 +2411,8 @@ map:
       top: 2066
       width: 310
     - coords: '1706,2170,1874,2215'
+      latitude: 51.5042
+      longitude: -0.093
       height: 45
       href: http://en.wikipedia.org/wiki/Cross_Bones
       id: CrossBones
@@ -2035,6 +2422,8 @@ map:
       top: 2170
       width: 168
     - coords: '662,1857,797,2026'
+      latitude: 51.438
+      longitude: -0.232
       height: 169
       href: http://en.wikipedia.org/wiki/Wimbledon_Windmill
       id: WimbledonWindmill
@@ -2044,6 +2433,8 @@ map:
       top: 1857
       width: 135
     - coords: '2482,1576,2668,1718'
+      latitude: 51.5108444
+      longitude: -0.0796889
       height: 142
       href: http://en.wikipedia.org/wiki/St_Olave_Hart_Street
       id: StOlaveHartStreet
@@ -2053,6 +2444,8 @@ map:
       top: 1576
       width: 186
     - coords: '2757,1662,3031,1756'
+      latitude: html
+      longitude: html
       height: 94
       href: http://en.wikipedia.org/wiki/Docklands_Light_Railway
       id: DocklandsLightRailway
@@ -2062,6 +2455,8 @@ map:
       top: 1662
       width: 274
     - coords: '3284,1321,3444,1439'
+      latitude: 51.53861
+      longitude: -0.01639
       height: 118
       href: http://en.wikipedia.org/wiki/London_Olympic_Stadium
       id: LondonOlympicStadium
@@ -2071,6 +2466,8 @@ map:
       top: 1321
       width: 160
     - coords: '2790,1711,2880,1778'
+      latitude: 51.5070
+      longitude: -0.0713
       height: 67
       href: http://en.wikipedia.org/wiki/St_Katharine_Docks
       id: StKatharineDocks
@@ -2080,6 +2477,8 @@ map:
       top: 1711
       width: 90
     - coords: '3390,1010,3578,1185'
+      latitude: html
+      longitude: html
       height: 175
       href: http://en.wikipedia.org/wiki/Isaac_Newton
       id: IsaacNewton
@@ -2089,6 +2488,8 @@ map:
       top: 1010
       width: 188
     - coords: '3503,926,3648,1059'
+      latitude: 52.204
+      longitude: 0.1182
       height: 133
       href: http://en.wikipedia.org/wiki/The_Eagle_(pub)
       id: TheEaglepub
@@ -2098,6 +2499,8 @@ map:
       top: 926
       width: 145
     - coords: '1389,1364,1516,1474'
+      latitude: html
+      longitude: html
       height: 110
       href: http://en.wikipedia.org/wiki/Davenports
       id: Davenports
@@ -2107,6 +2510,8 @@ map:
       top: 1364
       width: 127
     - coords: '1436,328,2177,1185'
+      latitude: 51.5215
+      longitude: -0.1389
       height: 857
       href: http://en.wikipedia.org/wiki/BT_Tower
       id: BTTower
@@ -2125,6 +2530,8 @@ map:
       top: 0
       width: 684
     - coords: '2089,2,2983,472'
+      latitude: html
+      longitude: html
       height: 470
       href: http://en.wikipedia.org/wiki/Howard_Rheingold
       id: HowardRheingoldTravellingGeeks
@@ -2143,6 +2550,8 @@ map:
       top: -1
       width: 293
     - coords: '927,579,1190,859'
+      latitude: 52.4393
+      longitude: -0.7799
       height: 280
       href: http://en.wikipedia.org/wiki/Rushton_Triangular_Lodge
       id: RushtonTriangularLodge
@@ -2152,6 +2561,8 @@ map:
       top: 579
       width: 263
     - coords: '1168,465,1581,803'
+      latitude: 56.00028
+      longitude: -3.84167
       height: 338
       href: http://en.wikipedia.org/wiki/Falkirk_wheel
       id: FalkirkWheel
@@ -2170,6 +2581,8 @@ map:
       top: 1
       width: 413
     - coords: '0,144,369,396'
+      latitude: html
+      longitude: html
       height: 252
       href: http://en.wikipedia.org/wiki/Craig_Newmark
       id: CraigNewmarkTravellingGeek
@@ -2179,6 +2592,8 @@ map:
       top: 144
       width: 369
     - coords: '27,1117,356,1404'
+      latitude: 52.97053
+      longitude: -3.08783
       height: 287
       href: http://en.wikipedia.org/wiki/Pontcysyllte_Aqueduct
       id: PontcysyllteAqueduct
@@ -2188,6 +2603,8 @@ map:
       top: 1117
       width: 329
     - coords: '1264,1174,1460,1365'
+      latitude: 51.50806
+      longitude: -0.12806
       height: 191
       href: http://en.wikipedia.org/wiki/Trafalgar_Square
       id: TrafalgarSquare
@@ -2197,6 +2614,8 @@ map:
       top: 1174
       width: 196
     - coords: '430,1140,654,1238'
+      latitude: 51.500944
+      longitude: -0.1774361
       height: 98
       href: http://en.wikipedia.org/wiki/Royal_Albert_Hall
       id: RoyalAlbertHall
@@ -2206,6 +2625,8 @@ map:
       top: 1140
       width: 224
     - coords: '291,1003,522,1204'
+      latitude: 52.627245
+      longitude: -2.485533
       height: 201
       href: http://en.wikipedia.org/wiki/The_Iron_Bridge
       id: Ironbridge
@@ -2215,6 +2636,8 @@ map:
       top: 1003
       width: 231
     - coords: '181,668,438,1033'
+      latitude: html
+      longitude: html
       height: 365
       href: http://en.wikipedia.org/wiki/Beatles
       id: Beatles
@@ -2224,6 +2647,8 @@ map:
       top: 668
       width: 257
     - coords: '1819,1535,2091,2090'
+      latitude: 51.50833
+      longitude: -0.09194
       height: 555
       href: http://en.wikipedia.org/wiki/Cannon_Street_Railway_Bridge
       id: CannonStreetRailwayBridge
@@ -2233,6 +2658,8 @@ map:
       top: 1535
       width: 272
     - coords: '2607,1599,2767,1797'
+      latitude: 51.50806
+      longitude: -0.07611
       height: 198
       href: http://en.wikipedia.org/wiki/The_Tower_of_London
       id: TheTower
@@ -2242,6 +2669,8 @@ map:
       top: 1599
       width: 160
     - coords: '2725,1710,2984,2008'
+      latitude: 51.50556
+      longitude: -0.07556
       height: 298
       href: http://en.wikipedia.org/wiki/Tower_bridge
       id: TowerBridge
@@ -2251,6 +2680,8 @@ map:
       top: 1710
       width: 259
     - coords: '796,1243,1232,1401'
+      latitude: 51.50167
+      longitude: -0.13194
       height: 158
       href: http://en.wikipedia.org/wiki/St._James's_Park
       id: StJamessPark
@@ -2260,6 +2691,8 @@ map:
       top: 1243
       width: 436
     - coords: '938,1373,1111,1624'
+      latitude: 51.499306
+      longitude: -0.12475
       height: 251
       href: http://en.wikipedia.org/wiki/Palace_of_Westminster
       id: HousesofParliament
@@ -2269,6 +2702,8 @@ map:
       top: 1373
       width: 173
     - coords: '1322,2035,1482,2178'
+      latitude: 51.505
+      longitude: -0.11361
       height: 143
       href: http://en.wikipedia.org/wiki/London_IMAX
       id: LondonIMAX
@@ -2278,6 +2713,8 @@ map:
       top: 2035
       width: 160
     - coords: '1402,1516,1516,2037'
+      latitude: 51.50861
+      longitude: -0.11694
       height: 521
       href: http://en.wikipedia.org/wiki/Waterloo_Bridge
       id: WaterlooBridge
@@ -2287,6 +2724,8 @@ map:
       top: 1516
       width: 114
     - coords: '1292,1361,1404,1504'
+      latitude: 51.5073
+      longitude: -0.12755
       height: 143
       href: http://en.wikipedia.org/wiki/Charing_Cross
       id: CharingCross
@@ -2296,6 +2735,8 @@ map:
       top: 1361
       width: 112
     - coords: '1432,1523,1734,2039'
+      latitude: 51.50972
+      longitude: -0.10444
       height: 516
       href: http://en.wikipedia.org/wiki/Blackfriars_Bridge
       id: BlackfriarsBridges
@@ -2305,6 +2746,8 @@ map:
       top: 1523
       width: 302
     - coords: '1614,1529,1824,1987'
+      latitude: 51.510173
+      longitude: -0.098438639
       height: 458
       href: http://en.wikipedia.org/wiki/Millennium_Bridge_(London)
       id: MillenniumBridge
@@ -2314,6 +2757,8 @@ map:
       top: 1529
       width: 210
     - coords: '178,1479,3453,2126'
+      latitude: html
+      longitude: html
       height: 647
       href: http://en.wikipedia.org/wiki/River_Thames
       id: RiverThames
@@ -2323,6 +2768,8 @@ map:
       top: 1479
       width: 3275
     - coords: '3445,1892,3665,2327'
+      latitude: 51.5
+      longitude: 0.583
       height: 435
       href: http://en.wikipedia.org/wiki/Thames_Estuary
       id: ThamesEstuary
@@ -2332,6 +2779,8 @@ map:
       top: 1892
       width: 220
     - coords: '3445,585,3883,1015'
+      latitude: 58
+      longitude: 7
       height: 430
       href: http://en.wikipedia.org/wiki/North_sea
       id: NorthSea
@@ -2341,6 +2790,8 @@ map:
       top: 585
       width: 438
     - coords: '31,636,257,961'
+      latitude: 53.72167
+      longitude: -5.17722
       height: 325
       href: http://en.wikipedia.org/wiki/Irish_Sea
       id: IrishSea
@@ -2350,6 +2801,8 @@ map:
       top: 636
       width: 226
     - coords: '144,2254,678,2452'
+      latitude: html
+      longitude: html
       height: 198
       href: http://en.wikipedia.org/wiki/Ley_line
       id: LeyLines
@@ -2359,6 +2812,8 @@ map:
       top: 2254
       width: 534
     - coords: '5,186,3148,732'
+      latitude: html
+      longitude: html
       height: 546
       href: http://en.wikipedia.org/wiki/Radio_broadcasting
       id: RadioBroadcasting
@@ -2368,6 +2823,8 @@ map:
       top: 186
       width: 3143
     - coords: '2314,1334,3388,1774'
+      latitude: 51.5155
+      longitude: -0.0922
       height: 440
       href: http://en.wikipedia.org/wiki/City_of_London
       id: TheCity
@@ -2377,6 +2834,8 @@ map:
       top: 1334
       width: 1074
     - coords: '1708,1220,1839,1304'
+      latitude: html
+      longitude: html
       height: 84
       href: http://en.wikipedia.org/wiki/Buzby
       id: Buzby
@@ -2386,6 +2845,8 @@ map:
       top: 1220
       width: 131
     - coords: '1494,1285,1710,1460'
+      latitude: 51.51194
+      longitude: -0.12167
       height: 175
       href: http://en.wikipedia.org/wiki/London_Transport_Museum
       id: LondonTransportMuseum
@@ -2395,6 +2856,8 @@ map:
       top: 1285
       width: 216
     - coords: '1925,1189,2051,1301'
+      latitude: 51.5207
+      longitude: -0.1345
       height: 112
       href: http://en.wikipedia.org/wiki/Tottenham_Court_Road
       id: TottenhamCourtRoad
@@ -2403,3 +2866,6 @@ map:
       title: Tottenham Court Road
       top: 1189
       width: 126
+  name: GITSCOB
+title: Geekery is the Social Capital of Britain
+user: psd
