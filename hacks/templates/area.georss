@@ -1,0 +1,3 @@
+<georss:point>[% area.latitude %] [% area.longitude %]</georss:point>
+<geo:lat>[% area.latitude %]</geo:lat>
+<geo:long>[% area.longitude %]</geo:long>

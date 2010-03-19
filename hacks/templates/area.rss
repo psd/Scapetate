@@ -1,0 +1,10 @@
+		<area>
+            <title>[% area.title %]</title>
+			<description>[% area.description %]</description>
+			<guid>[% area.href %]</guid>
+			<link>[% area.href %]</link>
+[% FOREACH tag IN area.tags -%]
+			<category>[% tag %]</category>
+[% END -%]
+[% PROCESS templates/area.georss FILTER indent(12) -%]
+		</area>
