@@ -1408,8 +1408,6 @@ map:
       top: 1977
       width: 160
     - coords: '174,2289,610,2345'
-      latitude: html
-      longitude: html
       height: 56
       href: http://en.wikipedia.org/wiki/Scale_(map)
       id: nonduccouilanx
@@ -1552,8 +1550,6 @@ map:
       top: 2304
       width: 254
     - coords: '211,1453,471,1586'
-      latitude: html
-      longitude: html
       height: 133
       href: http://en.wikipedia.org/wiki/Thunderbirds_(TV_series)
       id: Thunderbirds
@@ -1618,8 +1614,6 @@ map:
       top: 2002
       width: 335
     - coords: '875,2023,1110,2214'
-      latitude: html
-      longitude: html
       height: 191
       href: http://en.wikipedia.org/wiki/Atmospheric_railway
       id: Atmosphericrailway
@@ -1673,8 +1667,6 @@ map:
       top: 987
       width: 159
     - coords: '1357,801,1476,922'
-      latitude: html
-      longitude: html
       height: 121
       href: http://en.wikipedia.org/wiki/Alan_Turing
       id: AlanTuring
@@ -1786,8 +1778,6 @@ map:
       top: -1
       width: 316
     - coords: '1015,-5,1388,367'
-      latitude: html
-      longitude: html
       height: 372
       href: http://en.wikipedia.org/wiki/Robert_Scoble
       id: RobertScobleTravellingGeek
@@ -1806,8 +1796,6 @@ map:
       top: -1
       width: 472
     - coords: '1822,1007,1937,1139'
-      latitude: html
-      longitude: html
       height: 132
       href: http://en.wikipedia.org/wiki/Sir_Tim_Berners-Lee
       id: SirTimBernersLee
@@ -1828,8 +1816,6 @@ map:
       top: 1251
       width: 214
     - coords: '2835,1099,2971,1263'
-      latitude: html
-      longitude: html
       height: 164
       href: http://en.wikipedia.org/wiki/Douglas_adams
       id: Douglasadams
@@ -1883,8 +1869,6 @@ map:
       top: 1379
       width: 97
     - coords: '986,1161,1118,1265'
-      latitude: html
-      longitude: html
       height: 104
       href: http://en.wikipedia.org/wiki/Royal_Society
       id: RoyalSociety
@@ -1949,8 +1933,6 @@ map:
       top: 1180
       width: 112
     - coords: '2038,592,2185,770'
-      latitude: html
-      longitude: html
       height: 178
       href: http://en.wikipedia.org/wiki/Lewis_Carroll
       id: LewisCarroll
@@ -1982,8 +1964,6 @@ map:
       top: 2093
       width: 265
     - coords: '1266,2091,1372,2215'
-      latitude: html
-      longitude: html
       height: 124
       href: http://en.wikipedia.org/wiki/William_Oughtred
       id: WilliamOughtred
@@ -1993,8 +1973,6 @@ map:
       top: 2091
       width: 106
     - coords: '1924,1268,2054,1414'
-      latitude: html
-      longitude: html
       height: 146
       href: http://en.wikipedia.org/wiki/John_Foxx
       id: JohnFoxx
@@ -2048,8 +2026,6 @@ map:
       top: 768
       width: 294
     - coords: '2384,1197,2652,1335'
-      latitude: html
-      longitude: html
       height: 138
       href: http://en.wikipedia.org/wiki/Forbidden_Planet_(bookstore)
       id: ForbiddenPlanetbookstore
@@ -2070,8 +2046,6 @@ map:
       top: 614
       width: 202
     - coords: '2177,556,2374,752'
-      latitude: html
-      longitude: html
       height: 196
       href: http://en.wikipedia.org/wiki/Dolly_(sheep)
       id: Dollysheep
@@ -2092,8 +2066,6 @@ map:
       top: 713
       width: 195
     - coords: '2544,661,2706,848'
-      latitude: html
-      longitude: html
       height: 187
       href: http://en.wikipedia.org/wiki/John_Napier
       id: JohnNapier
@@ -2114,8 +2086,6 @@ map:
       top: 1000
       width: 191
     - coords: '2865,847,3076,981'
-      latitude: html
-      longitude: html
       height: 134
       href: http://en.wikipedia.org/wiki/Acorn_Computers
       id: AcornComputers
@@ -2136,8 +2106,6 @@ map:
       top: 686
       width: 251
     - coords: '2703,682,2845,847'
-      latitude: html
-      longitude: html
       height: 165
       href: http://en.wikipedia.org/wiki/John_Logie_Baird
       id: JohnLogieBaird
@@ -2268,8 +2236,6 @@ map:
       top: 1323
       width: 125
     - coords: '451,1228,596,1350'
-      latitude: html
-      longitude: html
       height: 122
       href: http://en.wikipedia.org/wiki/MONIAC_Computer
       id: MONIACComputer
@@ -2290,8 +2256,6 @@ map:
       top: 1745
       width: 207
     - coords: '756,1158,927,1238'
-      latitude: html
-      longitude: html
       height: 80
       href: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
       id: ArthurConanDoyle
@@ -2301,8 +2265,6 @@ map:
       top: 1158
       width: 171
     - coords: '3141,970,3272,1163'
-      latitude: html
-      longitude: html
       height: 193
       href: http://en.wikipedia.org/wiki/Clifford_Cocks
       id: CliffordCocks
@@ -2323,8 +2285,6 @@ map:
       top: 1555
       width: 91
     - coords: '3061,797,3250,983'
-      latitude: html
-      longitude: html
       height: 186
       href: http://en.wikipedia.org/wiki/J._R._R._Tolkien
       id: JRRTolkien
@@ -2444,8 +2404,6 @@ map:
       top: 1576
       width: 186
     - coords: '2757,1662,3031,1756'
-      latitude: html
-      longitude: html
       height: 94
       href: http://en.wikipedia.org/wiki/Docklands_Light_Railway
       id: DocklandsLightRailway
@@ -2477,8 +2435,6 @@ map:
       top: 1711
       width: 90
     - coords: '3390,1010,3578,1185'
-      latitude: html
-      longitude: html
       height: 175
       href: http://en.wikipedia.org/wiki/Isaac_Newton
       id: IsaacNewton
@@ -2499,8 +2455,6 @@ map:
       top: 926
       width: 145
     - coords: '1389,1364,1516,1474'
-      latitude: html
-      longitude: html
       height: 110
       href: http://en.wikipedia.org/wiki/Davenports
       id: Davenports
@@ -2530,8 +2484,6 @@ map:
       top: 0
       width: 684
     - coords: '2089,2,2983,472'
-      latitude: html
-      longitude: html
       height: 470
       href: http://en.wikipedia.org/wiki/Howard_Rheingold
       id: HowardRheingoldTravellingGeeks
@@ -2581,8 +2533,6 @@ map:
       top: 1
       width: 413
     - coords: '0,144,369,396'
-      latitude: html
-      longitude: html
       height: 252
       href: http://en.wikipedia.org/wiki/Craig_Newmark
       id: CraigNewmarkTravellingGeek
@@ -2636,8 +2586,6 @@ map:
       top: 1003
       width: 231
     - coords: '181,668,438,1033'
-      latitude: html
-      longitude: html
       height: 365
       href: http://en.wikipedia.org/wiki/Beatles
       id: Beatles
@@ -2757,8 +2705,6 @@ map:
       top: 1529
       width: 210
     - coords: '178,1479,3453,2126'
-      latitude: html
-      longitude: html
       height: 647
       href: http://en.wikipedia.org/wiki/River_Thames
       id: RiverThames
@@ -2801,8 +2747,6 @@ map:
       top: 636
       width: 226
     - coords: '144,2254,678,2452'
-      latitude: html
-      longitude: html
       height: 198
       href: http://en.wikipedia.org/wiki/Ley_line
       id: LeyLines
@@ -2812,8 +2756,6 @@ map:
       top: 2254
       width: 534
     - coords: '5,186,3148,732'
-      latitude: html
-      longitude: html
       height: 546
       href: http://en.wikipedia.org/wiki/Radio_broadcasting
       id: RadioBroadcasting
@@ -2834,8 +2776,6 @@ map:
       top: 1334
       width: 1074
     - coords: '1708,1220,1839,1304'
-      latitude: html
-      longitude: html
       height: 84
       href: http://en.wikipedia.org/wiki/Buzby
       id: Buzby
